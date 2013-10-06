@@ -14,13 +14,13 @@ The License is GPL v2
 
 * In the file Aproximation_1 you can found the suficient source for getting a classification process of a event_list files.
 * This system depends of a secondary system who index the results of the principal data with the classifications results, clasification of a event and the clasificaion of a user skills mathched gives a recomendation.
-* 
+*
 
 For use this read the next instructions.
 
-'''STEP 1'''
 
-Install 
+""Install packages""
+
 <code>
 
     apt-get install python-nltk python-num python-scipy

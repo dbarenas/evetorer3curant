@@ -1,2 +1,0 @@
-In a large text corpus, some words will be very present (e.g. “the”, “a”, “is” in English) hence carrying very little meaningul information about the actual contents of the document. If we were to feed the direct count data directly to a classifier those very frequent terms would shadow the frequencies of rarer yet more interesting terms.
-

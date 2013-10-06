@@ -1,0 +1,637 @@
+
+
+
+
+
+
+
+
+
+
+
+************ SSeemmiiccoonndduuccttoorr ************
+From Wikipedia, the free encyclopedia
+¬ ¬ (Redirected from _S_e_m_i_c_o_n_d_u_c_t_o_r_s)
+Jump to: _n_a_v_i_g_a_t_i_o_n, _s_e_a_r_c_h
+For information on devices using semiconductors and their history, see
+_s_e_m_i_c_o_n_d_u_c_t_o_r_ _d_e_v_i_c_e. For other uses, see _S_e_m_i_c_o_n_d_u_c_t_o_r_ _(_d_i_s_a_m_b_i_g_u_a_t_i_o_n_).
+ TThhiiss aarrttiiccllee hhaass mmuullttiippllee iissssuueess. Please help _ii_mm_pp_rr_oo_vv_ee_ _ii_tt or discuss these
+ issues on the _tt_aa_ll_kk_ _pp_aa_gg_ee.
+  This article nneeeeddss aaddddiittiioonnaall cciittaattiioonnss ffoorr vveerriiffiiccaattiioonn. Please help _i_m_p_r_o_v_e
+  _t_h_i_s_ _a_r_t_i_c_l_e by _a_d_d_i_n_g_ _c_i_t_a_t_i_o_n_s_ _t_o_ _r_e_l_i_a_b_l_e_ _s_o_u_r_c_e_s. Unsourced material may
+  be _c_h_a_l_l_e_n_g_e_d and _r_e_m_o_v_e_d. (June 2013)
+  This article mmaayy bbee ttoooo _tt_ee_cc_hh_nn_ii_cc_aa_ll ffoorr mmoosstt rreeaaddeerrss ttoo uunnddeerrssttaanndd. Please help
+  _i_m_p_r_o_v_e this article to _m_a_k_e_ _i_t_ _u_n_d_e_r_s_t_a_n_d_a_b_l_e_ _t_o_ _n_o_n_-_e_x_p_e_r_t_s, without
+  removing the technical details. The _t_a_l_k_ _p_a_g_e may contain suggestions.
+  (August 2011)
+A sseemmiiccoonndduuccttoorr is a material which has _e_l_e_c_t_r_i_c_a_l_ _c_o_n_d_u_c_t_i_v_i_t_y to a degree
+between that of a _m_e_t_a_l (such as copper) and that of an _i_n_s_u_l_a_t_o_r (such as
+glass). Semiconductors are the foundation of modern _s_o_l_i_d_ _s_t_a_t_e _e_l_e_c_t_r_o_n_i_c_s,
+including _t_r_a_n_s_i_s_t_o_r_s, _s_o_l_a_r_ _c_e_l_l_s, _l_i_g_h_t_-_e_m_i_t_t_i_n_g_ _d_i_o_d_e_s (LEDs), _q_u_a_n_t_u_m_ _d_o_t_s
+and digital and analog _i_n_t_e_g_r_a_t_e_d_ _c_i_r_c_u_i_t_s.
+A semiconductor may have a number of unique properties, one of which is the
+ability to change conductivity by the addition of impurities ("_d_o_p_i_n_g") or by
+interaction with another phenomenon, such as an _e_l_e_c_t_r_i_c_ _f_i_e_l_d or _l_i_g_h_t; this
+ability makes a semiconductor very useful for constructing a device that can
+amplify, switch, or convert an energy input. The modern understanding of the
+properties of a semiconductor relies on _q_u_a_n_t_u_m_ _p_h_y_s_i_c_s to explain the movement
+of _e_l_e_c_t_r_o_n_s inside a _l_a_t_t_i_c_e of atoms.
+********** CCoonntteennttss **********
+    * _1_ _P_r_o_p_e_r_t_i_e_s
+    * _2_ _M_a_t_e_r_i_a_l_s
+          o _2_._1_ _P_r_e_p_a_r_a_t_i_o_n_ _o_f_ _s_e_m_i_c_o_n_d_u_c_t_o_r_ _m_a_t_e_r_i_a_l_s
+    * _3_ _P_h_y_s_i_c_s_ _o_f_ _s_e_m_i_c_o_n_d_u_c_t_o_r_s
+          o _3_._1_ _E_n_e_r_g_y_ _b_a_n_d_s_ _a_n_d_ _e_l_e_c_t_r_i_c_a_l_ _c_o_n_d_u_c_t_i_o_n
+          o _3_._2_ _C_h_a_r_g_e_ _c_a_r_r_i_e_r_s_ _(_e_l_e_c_t_r_o_n_s_ _a_n_d_ _h_o_l_e_s_)
+                # _3_._2_._1_ _C_a_r_r_i_e_r_ _g_e_n_e_r_a_t_i_o_n_ _a_n_d_ _r_e_c_o_m_b_i_n_a_t_i_o_n
+          o _3_._3_ _D_o_p_i_n_g
+    * _4_ _E_a_r_l_y_ _h_i_s_t_o_r_y_ _o_f_ _s_e_m_i_c_o_n_d_u_c_t_o_r_s
+    * _5_ _S_e_e_ _a_l_s_o
+    * _6_ _R_e_f_e_r_e_n_c_e_s
+    * _7_ _F_u_r_t_h_e_r_ _r_e_a_d_i_n_g
+    * _8_ _E_x_t_e_r_n_a_l_ _l_i_n_k_s
+********** PPrrooppeerrttiieess[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+  Variable conductivity
+      A pure semiconductor is a poor electrical conductor as a consequence of
+      having just the right number of electrons to completely fill its _v_a_l_e_n_c_e
+      _b_o_n_d_s. Through various techniques (e.g., _d_o_p_i_n_g or _g_a_t_i_n_g), the
+      semiconductor can be modified to have excess of electrons (becoming an nn--
+      ttyyppee sseemmiiccoonndduuccttoorr) or a deficiency of electrons (becoming a pp--ttyyppee
+      sseemmiiccoonndduuccttoorr). In both cases, the semiconductor becomes much more
+      conductive (the conductivity can be increased by one million fold or
+      more). Semiconductor devices exploit this effect to shape electrical
+      current.
+  Junctions
+      When doped semiconductors are joined _t_o_ _m_e_t_a_l_s, _t_o_ _d_i_f_f_e_r_e_n_t
+      _s_e_m_i_c_o_n_d_u_c_t_o_r_s, and _t_o_ _t_h_e_ _s_a_m_e_ _s_e_m_i_c_o_n_d_u_c_t_o_r_ _w_i_t_h_ _d_i_f_f_e_r_e_n_t_ _d_o_p_i_n_g, the
+      resulting junction often strips the electron excess or deficiency out
+      from the semiconductor near the junction. This _d_e_p_l_e_t_i_o_n_ _r_e_g_i_o_n is
+      _r_e_c_t_i_f_y_i_n_g (only allowing current to flow in one direction), and used to
+      further shape electrical currents in semiconductor devices.
+  Energetic electrons travel far
+      Electrons can be excited across the energy _b_a_n_d_ _g_a_p (see Physics below)
+      of a semiconductor by various means. These electrons can carry their
+      excess energy over distance scales of microns before dissipating their
+      energy into heat, significantly longer than is possible in metals. This
+      effect is essential to the operation of _b_i_p_o_l_a_r_ _j_u_n_c_t_i_o_n_ _t_r_a_n_s_i_s_t_o_r_s.
+  Light energy conversion
+      Electrons in a semiconductor can absorb light, and subsequently retain
+      the energy from the light for a long enough time to be useful for
+      producing electrical work instead of heat. This principle is used in the
+      _p_h_o_t_o_v_o_l_t_a_i_c_ _c_e_l_l.
+      Conversely, in certain semiconductors, electrically excited electrons can
+      relax by emitting light instead of producing heat. This is used in the
+      _l_i_g_h_t_ _e_m_i_t_t_i_n_g_ _d_i_o_d_e and _q_u_a_n_t_u_m_ _d_o_t_s.
+  Thermal energy conversion
+      Semiconductors are good materials for _t_h_e_r_m_o_e_l_e_c_t_r_i_c_ _c_o_o_l_e_r_s and
+      _t_h_e_r_m_o_e_l_e_c_t_r_i_c_ _g_e_n_e_r_a_t_o_r_s, which convert temperature differences into
+      electrical power and vice versa. _P_e_l_t_i_e_r_ _c_o_o_l_e_r_s use semiconductors for
+      this reason.
+********** MMaatteerriiaallss[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+Main article: _L_i_s_t_ _o_f_ _s_e_m_i_c_o_n_d_u_c_t_o_r_ _m_a_t_e_r_i_a_l_s
+_S_i_l_i_c_o_n crystals are the most common semiconducting materials for
+_m_i_c_r_o_e_l_e_c_t_r_o_n_i_c_s.
+A large number of elements and compounds have semiconducting properties,
+including:_[_1_]
+    * Certain pure elements found in _G_r_o_u_p_ _X_I_V of the _p_e_r_i_o_d_i_c_ _t_a_b_l_e; the most
+      commercially important of these elements are _s_i_l_i_c_o_n and _g_e_r_m_a_n_i_u_m.
+    * Binary compounds, particularly between elements in Groups III and V, such
+      as _g_a_l_l_i_u_m_ _a_r_s_e_n_i_d_e, Groups II and VI, groups IV and VI, and between
+      different group IV elements, e.g. _s_i_l_i_c_o_n_ _c_a_r_b_i_d_e.
+    * Certain ternary compounds, oxides and alloys.
+    * _O_r_g_a_n_i_c_ _s_e_m_i_c_o_n_d_u_c_t_o_r_s, made of _o_r_g_a_n_i_c_ _c_o_m_p_o_u_n_d_s.
+Most common semiconducting materials are crystalline solids, but amorphous and
+liquid semiconductors are also known. These include _h_y_d_r_o_g_e_n_a_t_e_d_ _a_m_o_r_p_h_o_u_s
+_s_i_l_i_c_o_n and mixtures of _a_r_s_e_n_i_c, _s_e_l_e_n_i_u_m and _t_e_l_l_u_r_i_u_m in a variety of
+proportions. These compounds share with better known semiconductors the
+properties of intermediate conductivity and a rapid variation of conductivity
+with temperature, as well as occasional _n_e_g_a_t_i_v_e_ _r_e_s_i_s_t_a_n_c_e. Such disordered
+materials lack the rigid crystalline structure of conventional semiconductors
+such as silicon. They are generally used in _t_h_i_n_ _f_i_l_m structures, which do not
+require material of higher electronic quality, being relatively insensitive to
+impurities and radiation damage.
+******** PPrreeppaarraattiioonn ooff sseemmiiccoonndduuccttoorr mmaatteerriiaallss[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+Semiconductors with predictable, reliable electronic properties are necessary
+for _m_a_s_s_ _p_r_o_d_u_c_t_i_o_n. The level of chemical purity needed is extremely high
+because the presence of impurities even in very small proportions can have
+large effects on the properties of the material. A high degree of crystalline
+perfection is also required, since faults in crystal structure (such as
+_d_i_s_l_o_c_a_t_i_o_n_s, _t_w_i_n_s, and _s_t_a_c_k_i_n_g_ _f_a_u_l_t_s) interfere with the semiconducting
+properties of the material. Crystalline faults are a major cause of defective
+semiconductor devices. The larger the crystal, the more difficult it is to
+achieve the necessary perfection. Current mass production processes use crystal
+_i_n_g_o_t_s between 100 mm and 300 mm (4‚Äì12 inches) in diameter which are grown as
+cylinders and sliced into _w_a_f_e_r_s.
+Because of the required level of chemical purity and the perfection of the
+crystal structure which are needed to make semiconductor devices, special
+methods have been developed to produce the initial semiconductor material. A
+technique for achieving high purity includes growing the crystal using the
+_C_z_o_c_h_r_a_l_s_k_i_ _p_r_o_c_e_s_s. An additional step that can be used to further increase
+purity is known as _z_o_n_e_ _r_e_f_i_n_i_n_g. In zone refining, part of a solid crystal is
+melted. The impurities tend to concentrate in the melted region, while the
+desired material recrystalizes leaving the solid material more pure and with
+fewer crystalline faults.
+In manufacturing semiconductor devices involving _h_e_t_e_r_o_j_u_n_c_t_i_o_n_s between
+different semiconductor materials, it is often important to align the crystal
+lattices of the two materials by using _e_p_i_t_a_x_i_a_l_ _t_e_c_h_n_i_q_u_e_s. The _l_a_t_t_i_c_e
+_c_o_n_s_t_a_n_t, which is the length of the repeating element of the crystal
+structure, is important for determining the compatibility of materials.
+********** PPhhyyssiiccss ooff sseemmiiccoonndduuccttoorrss[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+******** EEnneerrggyy bbaannddss aanndd eelleeccttrriiccaall ccoonndduuccttiioonn[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+Main articles: _E_l_e_c_t_r_o_n_i_c_ _b_a_n_d_ _s_t_r_u_c_t_u_r_e and _E_l_e_c_t_r_i_c_a_l_ _c_o_n_d_u_c_t_i_o_n
+Filling of _e_l_e_c_t_r_o_n_i_c_ _b_a_n_d_ _s_t_r_u_c_t_u_r_e in various types of material at
+_e_q_u_i_l_i_b_r_i_u_m. In _m_e_t_a_l_s and _s_e_m_i_m_e_t_a_l_s the _F_e_r_m_i_ _l_e_v_e_l EF lies inside at least
+one band. In _i_n_s_u_l_a_t_o_r_s and sseemmiiccoonndduuccttoorrss the Fermi level is inside a _b_a_n_d
+_g_a_p, however in semiconductors the bands are near enough to the Fermi level to
+be _t_h_e_r_m_a_l_l_y_ _p_o_p_u_l_a_t_e_d with electrons or _h_o_l_e_s.
+                                                                           _e_d_i_t
+Semiconductors are defined by their unique electric conductive behavior,
+somewhere between that of a metal and an insulator. The differences between
+these materials can be understood in terms of the _q_u_a_n_t_u_m_ _s_t_a_t_e_s for electrons,
+each of which may contain zero or one electron (by the _P_a_u_l_i_ _e_x_c_l_u_s_i_o_n
+_p_r_i_n_c_i_p_l_e). These states are associated with the _e_l_e_c_t_r_o_n_i_c_ _b_a_n_d_ _s_t_r_u_c_t_u_r_e of
+the material. _E_l_e_c_t_r_i_c_a_l_ _c_o_n_d_u_c_t_i_v_i_t_y arises due to the presence of electrons
+in states that are _d_e_l_o_c_a_l_i_z_e_d (extending through the material), however in
+order to transport electrons a state must be partially filled, containing an
+electron only part of the time._[_2_] If the state is always occupied with an
+electron, then it is inert, blocking the passage of other electrons via that
+state. The energies of these quantum states are critical, since a state is
+partially filled only if its energy is near to the _F_e_r_m_i_ _l_e_v_e_l (see _F_e_r_m_i_-_D_i_r_a_c
+_s_t_a_t_i_s_t_i_c_s).
+A high conductivity comes from the combination of many partially filled states
+and a high amount of delocalization in those states. Metals are good _e_l_e_c_t_r_i_c_a_l
+_c_o_n_d_u_c_t_o_r_s due to precisely this combination, having in particular many
+partially filled states due to their large density of states near the Fermi
+level. _I_n_s_u_l_a_t_o_r_s, by contrast, have very few partially filled states, because
+the Fermi level is surrounded by a large _g_a_p in the band structure, devoid of
+states. Importantly, an insulator can be made to conduct by increasing its
+temperature: heating provides energy to promote some electrons across the band
+gap, inducing partially filled states in both the band of states beneath the
+band gap (_v_a_l_e_n_c_e_ _b_a_n_d) and the band of states above the band gap (_c_o_n_d_u_c_t_i_o_n
+_b_a_n_d). A pure semiconductor (intrinsic semiconductor) is essentially the same
+as an insulator except with a smaller gap, so that room temperature is already
+hot enough (relative to _a_b_s_o_l_u_t_e_ _z_e_r_o) to excite many electrons across the band
+gap._[_3_]
+A pure semiconductor, however, is not very useful, as it is neither a very good
+insulator nor a very good conductor. However, one important feature of
+semiconductors (and some insulators, known as semi-insulators) is that their
+conductivity can be increased and controlled by _d_o_p_i_n_g with impurities and
+_g_a_t_i_n_g with electric fields. Doping and gating move either the conduction or
+valence band much closer to the Fermi level, and greatly increase the number of
+partially filled states.
+Some wider-_b_a_n_d_ _g_a_p semiconductor materials are sometimes referred to as sseemmii--
+iinnssuullaattoorrss. When undoped, these have electrical conductivity nearer to that of
+electrical insulators, however they can be doped (making them as useful as
+semiconductors). Semi-insulators find niche applications in micro-electronics,
+such as substrates for _H_E_M_T. An example of a common semi-insulator is _g_a_l_l_i_u_m
+_a_r_s_e_n_i_d_e._[_4_] Some materials, such as _t_i_t_a_n_i_u_m_ _d_i_o_x_i_d_e, can even be used as
+insulating materials for some applications, while being treated as wide-gap
+semiconductors for other applications.
+******** CChhaarrggee ccaarrrriieerrss ((eelleeccttrroonnss aanndd hhoolleess))[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+Main article: _E_l_e_c_t_r_o_n_ _h_o_l_e
+The partial filling of the states at the bottom of the conduction band can be
+understood as adding electrons to that band. The electrons do not stay
+indefinitely (due to the natural thermal _r_e_c_o_m_b_i_n_a_t_i_o_n) but they can move
+around for some time. The actual concentration of electrons is typically very
+dilute, and so (unlike in metals) it is possible to think of the electrons in
+the conduction band of a semiconductor as a sort of classical _i_d_e_a_l_ _g_a_s, where
+the electrons fly around freely without being subject to the _P_a_u_l_i_ _e_x_c_l_u_s_i_o_n
+_p_r_i_n_c_i_p_l_e. In most semiconductors the conduction bands have a parabolic
+_d_i_s_p_e_r_s_i_o_n_ _r_e_l_a_t_i_o_n, and so these electrons respond to forces (electric field,
+magnetic field, etc.) much like they would in a vacuum, though with a different
+_e_f_f_e_c_t_i_v_e_ _m_a_s_s._[_3_] Because the electrons behave like an ideal gas, one may also
+think about conduction in very simplistic terms such as the _D_r_u_d_e_ _m_o_d_e_l, and
+introduce concepts such as _e_l_e_c_t_r_o_n_ _m_o_b_i_l_i_t_y.
+For partial filling at the top of the valence band, it is helpful to introduce
+the concept of an _e_l_e_c_t_r_o_n_ _h_o_l_e. Although the electrons in the valence band are
+always moving around, a completely full valence band is inert, not conducting
+any current. If an electron is taken out of the valence band, then the
+trajectory that the electron would normally have taken is now missing its
+charge. For the purposes of electric current, this combination of the full
+valence band, minus the electron, can be converted into a picture of a
+completely empty band containing a positively charged particle that moves in
+the same way as the electron. Combined with the negative effective mass of the
+electrons at the top of the valence band, we arrive at a picture of a
+positively charged particle that responds to electric and magnetic fields just
+as a normal positively charged particle would do in vacuum, again with some
+positive effective mass._[_3_] This particle is called a hole, and the collection
+of holes in the valence can again be understood in simple classical terms (as
+with the electrons in the conduction band).
+****** CCaarrrriieerr ggeenneerraattiioonn aanndd rreeccoommbbiinnaattiioonn[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ******
+Main article: _C_a_r_r_i_e_r_ _g_e_n_e_r_a_t_i_o_n_ _a_n_d_ _r_e_c_o_m_b_i_n_a_t_i_o_n
+When _i_o_n_i_z_i_n_g_ _r_a_d_i_a_t_i_o_n strikes a semiconductor, it may excite an electron out
+of its energy level and consequently leave a hole. This process is known as
+_e_l_e_c_t_r_o_n_‚_Ä_ì_h_o_l_e_ _p_a_i_r_ _g_e_n_e_r_a_t_i_o_n. Electron-hole pairs are constantly generated
+from _t_h_e_r_m_a_l_ _e_n_e_r_g_y as well, in the absence of any external energy source.
+Electron-hole pairs are also apt to recombine. _C_o_n_s_e_r_v_a_t_i_o_n_ _o_f_ _e_n_e_r_g_y demands
+that these recombination events, in which an electron loses an amount of _e_n_e_r_g_y
+larger than the _b_a_n_d_ _g_a_p, be accompanied by the emission of thermal energy (in
+the form of _p_h_o_n_o_n_s) or radiation (in the form of _p_h_o_t_o_n_s).
+In some states, the generation and recombination of electron‚Äìhole pairs are
+in equipoise. The number of electron-hole pairs in the _s_t_e_a_d_y_ _s_t_a_t_e at a given
+temperature is determined by _q_u_a_n_t_u_m_ _s_t_a_t_i_s_t_i_c_a_l_ _m_e_c_h_a_n_i_c_s. The precise _q_u_a_n_t_u_m
+_m_e_c_h_a_n_i_c_a_l mechanisms of generation and recombination are governed by
+_c_o_n_s_e_r_v_a_t_i_o_n_ _o_f_ _e_n_e_r_g_y and _c_o_n_s_e_r_v_a_t_i_o_n_ _o_f_ _m_o_m_e_n_t_u_m.
+As the probability that electrons and holes meet together is proportional to
+the product of their amounts, the product is in steady state nearly constant at
+a given temperature, providing that there is no significant electric field
+(which might "flush" carriers of both types, or move them from neighbour
+regions containing more of them to meet together) or externally driven pair
+generation. The product is a function of the temperature, as the probability of
+getting enough thermal energy to produce a pair increases with temperature,
+being approximately exp(‚àíEG/kT), where k is _B_o_l_t_z_m_a_n_n_'_s_ _c_o_n_s_t_a_n_t, T is
+absolute temperature and EG is band gap.
+The probability of meeting is increased by carrier traps‚Äîimpurities or
+dislocations which can trap an electron or hole and hold it until a pair is
+completed. Such carrier traps are sometimes purposely added to reduce the time
+needed to reach the steady state.
+******** DDooppiinngg[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+Main article: _D_o_p_i_n_g_ _(_s_e_m_i_c_o_n_d_u_c_t_o_r_)
+The conductivity of semiconductors may easily be modified by introducing
+impurities into their _c_r_y_s_t_a_l_ _l_a_t_t_i_c_e. The process of adding controlled
+impurities to a semiconductor is known as doping. The amount of impurity, or
+dopant, added to an _i_n_t_r_i_n_s_i_c (pure) semiconductor varies its level of
+conductivity. Doped semiconductors are referred to as _e_x_t_r_i_n_s_i_c. By adding
+impurity to pure semiconductors, the electrical conductivity may be varied by
+factors of thousands or millions.
+A 1 cm3 specimen of a metal or semiconductor has of the order of 1022 atoms. In
+a metal, every atom donates at least one free electron for conduction, thus
+1 cm3 of metal contains on the order of 1022 free electrons, whereas a 1 cm3
+sample of pure germanium at 20 ¬∞C contains about 4.2√ó1022 atoms, but only
+2.5√ó1013 free electrons and 2.5√ó1013 holes. The addition of 0.001% of arsenic
+(an impurity) donates an extra 1017 free electrons in the same volume and the
+electrical conductivity is increased by a factor of 10,000.
+The materials chosen as suitable dopants depend on the atomic properties of
+both the dopant and the material to be doped. In general, dopants that produce
+the desired controlled changes are classified as either electron _a_c_c_e_p_t_o_r_s or
+_d_o_n_o_r_s. Semiconductors doped with donor impurities are called n-type, while
+those doped with acceptor impurities are known as p-type. The n and p type
+designations indicate which charge carrier acts as the material's _m_a_j_o_r_i_t_y
+_c_a_r_r_i_e_r. The opposite carrier is called the _m_i_n_o_r_i_t_y_ _c_a_r_r_i_e_r, which exists due
+to thermal excitation at a much lower concentration compared to the majority
+carrier.
+For example, the pure semiconductor _s_i_l_i_c_o_n has four valence electrons which
+bond each silicon atom to its neighbors. In silicon, the most common dopants
+are group III and group V elements. Group III elements all contain three
+valence electrons, causing them to function as acceptors when used to dope
+silicon. When an acceptor atom replaces a silicon atom in the crystal, a vacant
+state ( an electron "hole") is created, which can move around the lattice and
+functions as a charge carrier. Group V elements have five valence electrons,
+which allows them to act as a donor; substitution of these atoms for silicon
+creates an extra free electron. Therefore, a silicon crystal doped with _b_o_r_o_n
+creates a p-type semiconductor whereas one doped with _p_h_o_s_p_h_o_r_u_s results in an
+n-type material.
+During _m_a_n_u_f_a_c_t_u_r_e, dopants can be diffused into the semiconductor body by
+contact with gaseous compounds of the desired element, or _i_o_n_ _i_m_p_l_a_n_t_a_t_i_o_n can
+be used to accurately position the doped regions.
+********** EEaarrllyy hhiissttoorryy ooff sseemmiiccoonndduuccttoorrss[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+The history of the understanding of semiconductors begins with experiments on
+the electrical properties of materials. The properties of negative temperature
+coefficient of resistance, rectification, and light-sensitivity were observed
+starting in the early 19th century.
+In 1833, _M_i_c_h_a_e_l_ _F_a_r_a_d_a_y reported that the resistance of specimens of _s_i_l_v_e_r
+_s_u_l_f_i_d_e decreases when they are heated. This is contrary to the behavior of
+metallic substances such as copper. In 1839, _A_._ _E_._ _B_e_c_q_u_e_r_e_l reported
+observation of a voltage between a solid and a liquid electrolyte when struck
+by light, the _p_h_o_t_o_v_o_l_t_a_i_c_ _e_f_f_e_c_t. In 1873 _W_i_l_l_o_u_g_h_b_y_ _S_m_i_t_h observed that
+_s_e_l_e_n_i_u_m _r_e_s_i_s_t_o_r_s exhibit decreasing resistance when light falls on them. In
+1874 _K_a_r_l_ _F_e_r_d_i_n_a_n_d_ _B_r_a_u_n observed conduction and rectification in metallic
+sulphides, and _A_r_t_h_u_r_ _S_c_h_u_s_t_e_r found that a copper oxide layer on wires has
+rectification properties that ceases when the wires are cleaned. Adams and Day
+observed the photovoltaic effect in selenium in 1876._[_5_]
+A unified explanation of these phenomena required a theory of _s_o_l_i_d_ _s_t_a_t_e
+_p_h_y_s_i_c_s which developed greatly in the first half of the 20th Century. In 1878
+_E_d_w_i_n_ _H_e_r_b_e_r_t_ _H_a_l_l demonstrated the deflection of flowing charge carriers by an
+applied magnetic field, the _H_a_l_l_ _e_f_f_e_c_t. The discovery of the _e_l_e_c_t_r_o_n by _J_._J_.
+_T_h_o_m_s_o_n in 1897 prompted theories of electron-based conduction in solids. _K_a_r_l
+_B_a_e_d_e_k_e_r, by observing a Hall effect with the reverse sign to that in metals,
+theorized that copper iodide had positive charge carriers. _J_o_h_a_n_ _K_o_e_n_i_g_s_b_e_r_g_e_r
+classified solid materials as metals, insulators and "variable conductors" in
+1914. _F_e_l_i_x_ _B_l_o_c_h published a theory of the movement of electrons through
+atomic lattices in 1928. In 1930, B. Gudden stated that conductivity in
+semiconductors was due to minor concentrations of impurities. By 1931, the band
+theory of conduction had been established by _A_l_a_n_ _H_e_r_r_i_e_s_ _W_i_l_s_o_n and the
+concept of band gaps had been developed. _W_a_l_t_e_r_ _H_._ _S_c_h_o_t_t_k_y and _N_e_v_i_l_l_ _F_r_a_n_c_i_s
+_M_o_t_t developed models of the potential barrier and of the characteristics of a
+_m_e_t_a_l_-_s_e_m_i_c_o_n_d_u_c_t_o_r_ _j_u_n_c_t_i_o_n. By 1938, _B_o_r_i_s_ _D_a_v_y_d_o_v had developed a theory of
+the copper-oxide rectifer, identifying the effect of the _p_‚_Ä_ì_n_ _j_u_n_c_t_i_o_n and the
+importance of minority carriers and surface states._[_6_]
+Agreement between theoretical predictions (based on developing quantum
+mechanics) and experimental results was sometimes poor. This was later
+explained by _J_o_h_n_ _B_a_r_d_e_e_n as due to the extreme "structure sensitive" behavior
+of semiconductors, whose properties change dramatically based on tiny amounts
+of impurities._[_6_] Commercially pure materials of the 1920s containing varying
+proportions of trace contaminants produced differing experimental results. This
+spurred the development of improved material refining techniques, culminating
+in modern semiconductor refineries producing materials with parts-per-trillion
+purity.
+Devices using semiconductors were at first constructed based on empirical
+knowledge, before semiconductor theory provided a guide to construction of more
+capable and reliable devices.
+_A_l_e_x_a_n_d_e_r_ _G_r_a_h_a_m_ _B_e_l_l used the light-sensitive property of selenium to
+_P_h_o_t_o_p_h_o_n_e transmit sound over a beam of light in 1880. A working solar cell,
+of low efficiency, was constructed by _C_h_a_r_l_e_s_ _F_r_i_t_t_s in 1883 using a metal
+plate coated with selenium and a thin layer of gold; the device became
+commercially useful in photographic light meters in the 1930s._[_6_] Point-contact
+microwave detector rectifiers made of lead sulfide were used by _J_a_g_a_d_i_s_h
+_C_h_a_n_d_r_a_ _B_o_s_e in 1904; the _c_a_t_'_s_-_w_h_i_s_k_e_r_ _d_e_t_e_c_t_o_r using natural galena or other
+materials became a common device in the _d_e_v_e_l_o_p_m_e_n_t_ _o_f_ _r_a_d_i_o. However, it was
+somewhat unpredictable in operation and required manual adjustment for best
+performance. In 1906 _H_._J_._ _R_o_u_n_d observed light emission when electric current
+passed through silicon carbide crystals, the principle behind the _l_i_g_h_t
+_e_m_i_t_t_i_n_g_ _d_i_o_d_e. _O_l_e_g_ _L_o_s_e_v observed similar light emission in 1922 but at the
+time the effect had no practical use. Power rectifiers, using copper oxide and
+selenium, were developed in the 1920s and became commercially important as an
+alternative to _v_a_c_u_u_m_ _t_u_b_e rectifiers._[_5_]_[_6_]
+In the years preceding _W_o_r_l_d_ _W_a_r_ _I_I, infra-red detection and communications
+devices prompted research into lead-sulfide and lead-selenide materials. These
+devices were used for detecting ships and aircraft, for infrared rangefinders,
+and for voice communication systems. The point-contact crystal detector became
+vital for microwave radio systems, since available vacuum tube devices could
+not serve as detectors above about 4000 MHz; advanced radar systems relied on
+the fast response of crystal detectors. Considerable research and development
+of silicon materials occurred during the war to develop detectors of consistent
+quality._[_6_]
+Detector and power rectifiers could not amplify a signal. Many efforts were
+made to develop a solid-state amplifier, but these were unsuccessful because of
+limited theoretical understanding of semiconductor materials._[_6_] In 1922 _O_l_e_g
+_L_o_s_e_v developed two-terminal, _n_e_g_a_t_i_v_e_ _r_e_s_i_s_t_a_n_c_e amplifiers for radio;
+however, he perished in the _S_i_e_g_e_ _o_f_ _L_e_n_i_n_g_r_a_d. In 1926 _J_u_l_i_u_s_ _E_d_g_a_r_d_ _L_i_l_e_n_f_e_l_d
+patented a device resembling a modern field-effect transistor, but it was not
+practical. R. Hilsch and R. W. Pohl in 1938 demonstrated a solid-state
+amplifier using a structure resembling the control grid of a vacuum tube;
+although the device displayed power gain, it had a _c_u_t_-_o_f_f_ _f_r_e_q_u_e_n_c_y of one
+cycle per second, too low for any practical applications, but an effective
+application of the available theory._[_6_] At _B_e_l_l_ _L_a_b_s, _W_i_l_l_i_a_m_ _S_h_o_c_k_l_e_y and A.
+Holden started investigating solid-state amplifiers in 1938. The first p‚Äìn
+junction in silicon was observed by _R_u_s_s_e_l_l_ _O_h_l about 1941, when a specimen was
+found to be light-sensitive, with a sharp boundary between p-type impurity at
+one end and n-type at the other. A slice cut from the specimen at the p‚Äìn
+boundary developed a voltage when exposed to light.
+In France, during the war, _H_e_r_b_e_r_t_ _M_a_t_a_r_√_© had observed amplification between
+adjacent point contacts on a germanium base. After the war, Matar√©'s group
+announced their "_T_r_a_n_s_i_s_t_r_o_n" amplifier only shortly after Bell Labs announced
+the "_t_r_a_n_s_i_s_t_o_r".
+********** SSeeee aallssoo[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+_[_P_o_r_t_a_l_ _i_c_o_n_] _E_l_e_c_t_r_o_n_i_c_s_ _p_o_r_t_a_l
+ Wikimedia Commons has media related to: _SS_ee_mm_ii_cc_oo_nn_dd_uu_cc_tt_oo_rr_ss
+    * _S_e_m_i_c_o_n_d_u_c_t_o_r_ _i_n_d_u_s_t_r_y ‚Äî The 300 billion dollar sector of the world's
+      economy that designs and manufactures semiconductor devices.
+    * _S_e_m_i_c_o_n_d_u_c_t_o_r_ _c_h_a_r_a_c_t_e_r_i_z_a_t_i_o_n_ _t_e_c_h_n_i_q_u_e_s ‚Äî A wide variety of
+      techniques are used to analyze the properties of semiconductors.
+********** RReeffeerreenncceess[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+   1. _^^ B.G. Yacobi, Semiconductor Materials: An Introduction to Basic
+      Principles, Springer 2003 _I_S_B_N_ _0_3_0_6_4_7_3_6_1_5, pp. 1‚Äì3
+   2. _^^ As in the Mott formula for conductivity, see Cutler, M.; Mott, N.
+      (1969). "Observation of Anderson Localization in an Electron Gas".
+      Physical Review 118811 (3): 1336. _B_i_b_c_o_d_e:_1_9_6_9_P_h_R_v_._._1_8_1_._1_3_3_6_C. _d_o_i:_1_0_._1_1_0_3_/
+      _P_h_y_s_R_e_v_._1_8_1_._1_3_3_6.  _e_d_i_t
+   3. ^ _aa _bb _cc _C_h_a_r_l_e_s_ _K_i_t_t_e_l (1995) Introduction to Solid State Physics, 7th
+      ed. Wiley, _I_S_B_N_ _0_4_7_1_1_1_1_8_1_3.
+   4. _^^ J. W. Allen (1960). "Gallium Arsenide as a semi-insulator". Nature 118877
+      (4735): 403‚Äì405. _B_i_b_c_o_d_e:_1_9_6_0_N_a_t_u_r_._1_8_7_._._4_0_3_A. _d_o_i:_1_0_._1_0_3_8_/_1_8_7_4_0_3_b_0. 
+   5. ^ _aa _bb Lidia ≈Åukasiak and Andrzej Jakubowski (January 2010). _"_H_i_s_t_o_r_y_ _o_f
+      _S_e_m_i_c_o_n_d_u_c_t_o_r_s_". Journal of Telecommunication and Information Technology:
+      3. 
+   6. ^ _aa _bb _cc _dd _ee _ff _gg Peter Robin Morris A History of the World Semiconductor
+      Industry, IET 1990, _I_S_B_N_ _0_8_6_3_4_1_2_2_7_0, pp. 11‚Äì25
+********** FFuurrtthheerr rreeaaddiinngg[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+    * A. A. Balandin and K. L. Wang (2006). Handbook of Semiconductor
+      Nanostructures and Nanodevices (5-Volume Set). American Scientific
+      Publishers. _I_S_B_N _1_-_5_8_8_8_3_-_0_7_3_-_X. 
+    * _S_z_e_,_ _S_i_m_o_n_ _M_. (1981). Physics of Semiconductor Devices (2nd ed.). John
+      Wiley and Sons (WIE). _I_S_B_N _0_-_4_7_1_-_0_5_6_6_1_-_8. 
+    * Turley, Jim (2002). The Essential Guide to Semiconductors. Prentice Hall
+      PTR. _I_S_B_N _0_-_1_3_-_0_4_6_4_0_4_-_X. 
+    * Yu, Peter Y.; Cardona, Manuel (2004). Fundamentals of Semiconductors :
+      Physics and Materials Properties. Springer. _I_S_B_N _3_-_5_4_0_-_4_1_3_2_3_-_5. 
+    * Sadao Adachi (2012). The Handbook on Optical Constants of Semiconductors:
+      In Tables and Figures. World Scientific Publishing. _I_S_B_N _9_-_7_8_9_-_8_1_4_4_0_5_9_7_-
+      _3. 
+********** EExxtteerrnnaall lliinnkkss[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+    * _H_o_w_s_t_u_f_f_w_o_r_k_s_'_ _s_e_m_i_c_o_n_d_u_c_t_o_r_ _p_a_g_e
+    * _S_e_m_i_c_o_n_d_u_c_t_o_r_ _C_o_n_c_e_p_t_s_ _a_t_ _H_y_p_e_r_p_h_y_s_i_c_s
+    * Calculator for the _i_n_t_r_i_n_s_i_c_ _c_a_r_r_i_e_r_ _c_o_n_c_e_n_t_r_a_t_i_o_n in silicon
+    * Semiconductor OneSource _H_a_l_l_ _o_f_ _F_a_m_e, _G_l_o_s_s_a_r_y
+    * _P_r_i_n_c_i_p_l_e_s_ _o_f_ _S_e_m_i_c_o_n_d_u_c_t_o_r_ _D_e_v_i_c_e_s by Bart Van Zeghbroeck, _U_n_i_v_e_r_s_i_t_y_ _o_f
+      _C_o_l_o_r_a_d_o. An online textbook]
+    * _U_S_ _N_a_v_y_ _E_l_e_c_t_r_i_c_a_l_ _E_n_g_i_n_e_e_r_i_n_g_ _T_r_a_i_n_i_n_g_ _S_e_r_i_e_s
+    * _N_S_M_-_A_r_c_h_i_v_e Physical Properties of Semiconductors]
+    * _S_e_m_i_c_o_n_d_u_c_t_o_r_ _M_a_n_u_f_a_c_t_u_r_e_r_ _L_i_s_t
+    * _A_B_A_C_U_S : Introduction to Semiconductor Devices ‚Äì by _G_e_r_h_a_r_d_ _K_l_i_m_e_c_k and
+      Dragica Vasileska, online learning resource with simulation tools on
+      _n_a_n_o_H_U_B
+    * _O_r_g_a_n_i_c_ _S_e_m_i_c_o_n_d_u_c_t_o_r_ _p_a_g_e
+    * _D_o_I_T_P_o_M_S_ _T_e_a_c_h_i_n_g_ _a_n_d_ _L_e_a_r_n_i_n_g_ _P_a_c_k_a_g_e_-_ _"_I_n_t_r_o_d_u_c_t_i_o_n_ _t_o_ _S_e_m_i_c_o_n_d_u_c_t_o_r_s_"
+    * _S_e_m_i_c_o_n_d_u_c_t_o_r_ _R_&_D_ _T_a_l_e_n_t_ _L_o_c_a_t_i_o_n_s_ _r_e_p_o_r_t
+    ** _vv
+    ** _tt
+    ** _ee
+BBrraanncchheess ooff _pp_hh_yy_ss_ii_cc_ss
+                          * _A_p_p_l_i_e_d_ _p_h_y_s_i_c_s
+DDiivviissiioonnss                 * _E_x_p_e_r_i_m_e_n_t_a_l_ _p_h_y_s_i_c_s
+                          * _T_h_e_o_r_e_t_i_c_a_l_ _p_h_y_s_i_c_s
+                          * _C_l_a_s_s_i_c_a_l_ _m_e_c_h_a_n_i_c_s
+                                o _L_a_g_r_a_n_g_i_a_n_ _m_e_c_h_a_n_i_c_s
+                                o _H_a_m_i_l_t_o_n_i_a_n_ _m_e_c_h_a_n_i_c_s
+                          * _C_o_n_t_i_n_u_u_m_ _m_e_c_h_a_n_i_c_s
+_EE_nn_ee_rr_gg_yy aanndd _mm_oo_tt_ii_oo_nn         * _C_e_l_e_s_t_i_a_l_ _m_e_c_h_a_n_i_c_s
+                          * _S_t_a_t_i_s_t_i_c_a_l_ _m_e_c_h_a_n_i_c_s
+                          * _T_h_e_r_m_o_d_y_n_a_m_i_c_s
+                          * _F_l_u_i_d_ _m_e_c_h_a_n_i_c_s
+                          * _Q_u_a_n_t_u_m_ _m_e_c_h_a_n_i_c_s
+                          * _G_r_a_v_i_t_a_t_i_o_n
+                          * _E_l_e_c_t_r_o_m_a_g_n_e_t_i_s_m
+_WW_aa_vv_ee_ss aanndd _ff_ii_ee_ll_dd_ss          * _Q_u_a_n_t_u_m_ _f_i_e_l_d_ _t_h_e_o_r_y
+                          * _R_e_l_a_t_i_v_i_t_y
+                                o _S_p_e_c_i_a_l_ _r_e_l_a_t_i_v_i_t_y
+                                o _G_e_n_e_r_a_l_ _r_e_l_a_t_i_v_i_t_y
+                          * _A_c_c_e_l_e_r_a_t_o_r_ _p_h_y_s_i_c_s
+                          * _A_c_o_u_s_t_i_c_s
+                          * _A_s_t_r_o_p_h_y_s_i_c_s
+                                o _H_e_l_i_o_p_h_y_s_i_c_s
+                                o _N_u_c_l_e_a_r_ _a_s_t_r_o_p_h_y_s_i_c_s
+                                o _S_o_l_a_r_ _p_h_y_s_i_c_s
+                                o _S_p_a_c_e_ _p_h_y_s_i_c_s
+                                o _S_t_e_l_l_a_r_ _p_h_y_s_i_c_s
+                          * _A_t_o_m_i_c_,_ _m_o_l_e_c_u_l_a_r_,_ _a_n_d_ _o_p_t_i_c_a_l_ _p_h_y_s_i_c_s
+                          * _C_h_e_m_i_c_a_l_ _p_h_y_s_i_c_s
+                          * _C_o_m_p_u_t_a_t_i_o_n_a_l_ _p_h_y_s_i_c_s
+                          * _C_o_n_d_e_n_s_e_d_ _m_a_t_t_e_r_ _p_h_y_s_i_c_s
+PPhhyyssiiccaall sscciieenncceess               o _S_o_l_i_d_-_s_t_a_t_e_ _p_h_y_s_i_c_s
+aanndd _mm_aa_tt_hh_ee_mm_aa_tt_ii_cc_ss           * _D_i_g_i_t_a_l_ _p_h_y_s_i_c_s
+                          * _E_n_g_i_n_e_e_r_i_n_g_ _p_h_y_s_i_c_s
+                          * _M_a_t_e_r_i_a_l_ _p_h_y_s_i_c_s
+                          * _M_a_t_h_e_m_a_t_i_c_a_l_ _p_h_y_s_i_c_s
+                          * _N_u_c_l_e_a_r_ _p_h_y_s_i_c_s
+                          * _O_p_t_i_c_s
+                                o _N_o_n_l_i_n_e_a_r_ _o_p_t_i_c_s
+                                o _Q_u_a_n_t_u_m_ _o_p_t_i_c_s
+                          * _P_a_r_t_i_c_l_e_ _p_h_y_s_i_c_s
+                                o _A_s_t_r_o_p_a_r_t_i_c_l_e_ _p_h_y_s_i_c_s
+                                o _P_h_e_n_o_m_e_n_o_l_o_g_y
+                          * _P_l_a_s_m_a
+                          * _P_o_l_y_m_e_r_ _p_h_y_s_i_c_s
+                          * _S_t_a_t_i_s_t_i_c_a_l_ _p_h_y_s_i_c_s
+                          * _B_i_o_p_h_y_s_i_c_s
+                                o _B_i_o_m_e_c_h_a_n_i_c_s
+                                o _M_e_d_i_c_a_l_ _p_h_y_s_i_c_s
+                                o _N_e_u_r_o_p_h_y_s_i_c_s
+PPhhyyssiiccss aanndd _bb_ii_oo_ll_oo_gg_yy //     * _A_g_r_o_p_h_y_s_i_c_s
+_gg_ee_oo_ll_oo_gg_yy // _ee_cc_oo_nn_oo_mm_ii_cc_ss             o _S_o_i_l_ _p_h_y_s_i_c_s
+                          * _A_t_m_o_s_p_h_e_r_i_c_ _p_h_y_s_i_c_s
+                          * _E_c_o_n_o_p_h_y_s_i_c_s
+                          * _G_e_o_p_h_y_s_i_c_s
+                          * _P_s_y_c_h_o_p_h_y_s_i_c_s
+
+Retrieved from "_h_t_t_p_:_/_/_e_n_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_/
+_i_n_d_e_x_._p_h_p_?_t_i_t_l_e_=_S_e_m_i_c_o_n_d_u_c_t_o_r_&_o_l_d_i_d_=_5_6_9_4_8_4_8_8_2"
+_C_a_t_e_g_o_r_i_e_s:
+    * _S_e_m_i_c_o_n_d_u_c_t_o_r_s
+    * _C_o_n_c_e_p_t_s_ _i_n_ _p_h_y_s_i_c_s
+Hidden categories:
+    * _A_r_t_i_c_l_e_s_ _n_e_e_d_i_n_g_ _a_d_d_i_t_i_o_n_a_l_ _r_e_f_e_r_e_n_c_e_s_ _f_r_o_m_ _J_u_n_e_ _2_0_1_3
+    * _A_l_l_ _a_r_t_i_c_l_e_s_ _n_e_e_d_i_n_g_ _a_d_d_i_t_i_o_n_a_l_ _r_e_f_e_r_e_n_c_e_s
+    * _W_i_k_i_p_e_d_i_a_ _a_r_t_i_c_l_e_s_ _t_h_a_t_ _a_r_e_ _t_o_o_ _t_e_c_h_n_i_c_a_l_ _f_r_o_m_ _A_u_g_u_s_t_ _2_0_1_1
+    * _A_l_l_ _a_r_t_i_c_l_e_s_ _t_h_a_t_ _a_r_e_ _t_o_o_ _t_e_c_h_n_i_c_a_l
+    * _A_r_t_i_c_l_e_s_ _n_e_e_d_i_n_g_ _e_x_p_e_r_t_ _a_t_t_e_n_t_i_o_n_ _f_r_o_m_ _A_u_g_u_s_t_ _2_0_1_1
+    * _A_l_l_ _a_r_t_i_c_l_e_s_ _n_e_e_d_i_n_g_ _e_x_p_e_r_t_ _a_t_t_e_n_t_i_o_n
+    * _C_o_m_m_o_n_s_ _c_a_t_e_g_o_r_y_ _w_i_t_h_ _l_o_c_a_l_ _l_i_n_k_ _s_a_m_e_ _a_s_ _o_n_ _W_i_k_i_d_a_t_a
+********** NNaavviiggaattiioonn mmeennuu **********
+******** PPeerrssoonnaall ttoooollss ********
+    * _C_r_e_a_t_e_ _a_c_c_o_u_n_t
+    * _L_o_g_ _i_n
+******** NNaammeessppaacceess ********
+    * _A_r_t_i_c_l_e
+    * _T_a_l_k
+VVaarriiaannttss
+******** VViieewwss ********
+    * _R_e_a_d
+    * _E_d_i_t_ _s_o_u_r_c_e
+    * _E_d_i_t
+    * _V_i_e_w_ _h_i_s_t_o_r_y
+AAccttiioonnss
+******** SSeeaarrcchh ********
+[search              ]
+[Search]
+******** NNaavviiggaattiioonn ********
+    * _M_a_i_n_ _p_a_g_e
+    * _C_o_n_t_e_n_t_s
+    * _F_e_a_t_u_r_e_d_ _c_o_n_t_e_n_t
+    * _C_u_r_r_e_n_t_ _e_v_e_n_t_s
+    * _R_a_n_d_o_m_ _a_r_t_i_c_l_e
+    * _D_o_n_a_t_e_ _t_o_ _W_i_k_i_p_e_d_i_a
+******** IInntteerraaccttiioonn ********
+    * _H_e_l_p
+    * _A_b_o_u_t_ _W_i_k_i_p_e_d_i_a
+    * _C_o_m_m_u_n_i_t_y_ _p_o_r_t_a_l
+    * _R_e_c_e_n_t_ _c_h_a_n_g_e_s
+    * _C_o_n_t_a_c_t_ _p_a_g_e
+******** TToooollbbooxx ********
+    * _W_h_a_t_ _l_i_n_k_s_ _h_e_r_e
+    * _R_e_l_a_t_e_d_ _c_h_a_n_g_e_s
+    * _U_p_l_o_a_d_ _f_i_l_e
+    * _S_p_e_c_i_a_l_ _p_a_g_e_s
+    * _P_e_r_m_a_n_e_n_t_ _l_i_n_k
+    * _P_a_g_e_ _i_n_f_o_r_m_a_t_i_o_n
+    * _D_a_t_a_ _i_t_e_m
+    * _C_i_t_e_ _t_h_i_s_ _p_a_g_e
+******** PPrriinntt//eexxppoorrtt ********
+    * _C_r_e_a_t_e_ _a_ _b_o_o_k
+    * _D_o_w_n_l_o_a_d_ _a_s_ _P_D_F
+    * _P_r_i_n_t_a_b_l_e_ _v_e_r_s_i_o_n
+******** LLaanngguuaaggeess ********
+    * _A_f_r_i_k_a_a_n_s
+    * _ÿ_ß_Ÿ_Ñ_ÿ_π_ÿ_±_ÿ_®_Ÿ_ä_ÿ_©
+    * _A_r_a_g_o_n_√_©_s
+    * _‡_¶_Ö_‡_¶_∏_‡_¶_Æ_‡_ß_Ä_‡_¶_Ø_‡_¶_º_‡_¶_æ
+    * _A_z_…_ô_r_b_a_y_c_a_n_c_a
+    * _‡_¶_¨_‡_¶_æ_‡_¶_Ç_‡_¶_≤_‡_¶_æ
+    * _B_√_¢_n_-_l_√_¢_m_-_g_√_∫
+    * _–_ë_–_µ_–_ª_–_∞_—_Ä_—_É_—_Å_–_∫_–_∞_—_è
+    * _–_ë_–_µ_–_ª_–_∞_—_Ä_—_É_—_Å_–_∫_–_∞_—_è_ _(_—_Ç_–_∞_—_Ä_–_∞_—_à_–_∫_–_µ_–_≤_—_ñ_—_Ü_–_∞_)_‚_Ä_é
+    * _–_ë_—_ä_–_ª_–_≥_–_∞_—_Ä_—_Å_–_∫_–_∏
+    * _B_o_s_a_n_s_k_i
+    * _C_a_t_a_l_√_ 
+    * _ƒ_å_e_s_k_y
+    * _D_a_n_s_k
+    * _D_e_u_t_s_c_h
+    * _E_e_s_t_i
+    * _Œ_ï_Œ_ª_Œ_ª_Œ_∑_Œ_Ω_Œ_π_Œ_∫_Œ_¨
+    * _E_s_p_a_√_±_o_l
+    * _E_s_p_e_r_a_n_t_o
+    * _E_u_s_k_a_r_a
+    * _Ÿ_Å_ÿ_ß_ÿ_±_ÿ_≥_€_å
+    * _F_i_j_i_ _H_i_n_d_i
+    * _F_r_a_n_√_ß_a_i_s
+    * _G_a_e_i_l_g_e
+    * _G_a_l_e_g_o
+    * _Ë_¥_õ_Ë_™_û
+    * _Ì_ï_ú_Í_µ_≠_Ï_ñ_¥
+    * _‡_§_π_‡_§_ø_‡_§_®_‡_•_ç_‡_§_¶_‡_•_Ä
+    * _H_r_v_a_t_s_k_i
+    * _B_a_h_a_s_a_ _I_n_d_o_n_e_s_i_a
+    * _√_ç_s_l_e_n_s_k_a
+    * _I_t_a_l_i_a_n_o
+    * _◊_¢_◊_ë_◊_®_◊_ô_◊_™
+    * _‡_≤_ï_‡_≤_®_‡_≥_ç_‡_≤_®_‡_≤_°
+    * _·_É_•_·_É_ê_·_É_ _·_É_ó_·_É_£_·_É_ö_·_É_ò
+    * _“_ö_–_∞_–_∑_–_∞_“_õ_—_à_–_∞
+    * _K_r_e_y_√_≤_l_ _a_y_i_s_y_e_n
+    * _K_u_r_d_√_Æ
+    * _L_a_t_i_n_a
+    * _L_a_t_v_i_e_≈_°_u
+    * _L_i_e_t_u_v_i_≈_≥
+    * _M_a_g_y_a_r
+    * _–_ú_–_∞_–_∫_–_µ_–_¥_–_æ_–_Ω_—_Å_–_∫_–_∏
+    * _M_a_l_a_g_a_s_y
+    * _‡_¥_Æ_‡_¥_≤_‡_¥_Ø_‡_¥_æ_‡_¥_≥_‡_¥_Ç
+    * _‡_§_Æ_‡_§_∞_‡_§_æ_‡_§_ _‡_•_Ä
+    * _B_a_h_a_s_a_ _M_e_l_a_y_u
+    * _–_ú_–_æ_–_Ω_–_≥_–_æ_–_ª
+    * _N_e_d_e_r_l_a_n_d_s
+    * _Ê_ó_•_Ê_ú_¨_Ë_™_û
+    * _N_o_r_s_k_ _b_o_k_m_√_•_l
+    * _N_o_r_s_k_ _n_y_n_o_r_s_k
+    * _O_c_c_i_t_a_n
+    * _O_ _ª_z_b_e_k_c_h_a
+    * _Ÿ_æ_Ÿ_Ü_ÿ_¨_ÿ_ß_ÿ_®_€_å
+    * _P_o_l_s_k_i
+    * _P_o_r_t_u_g_u_√_™_s
+    * _R_o_m_√_¢_n_ƒ_É
+    * _–_ _—_É_—_Å_—_Å_–_∫_–_∏_–_π
+    * _S_e_e_l_t_e_r_s_k
+    * _S_h_q_i_p
+    * _‡_∑_É_‡_∑_í_‡_∂_Ç_‡_∑_Ñ_‡_∂_Ω
+    * _S_i_m_p_l_e_ _E_n_g_l_i_s_h
+    * _S_l_o_v_e_n_ƒ_ç_i_n_a
+    * _S_l_o_v_e_n_≈_°_ƒ_ç_i_n_a
+    * _–_°_—_Ä_–_ø_—_Å_–_∫_–_∏_ _/_ _s_r_p_s_k_i
+    * _S_r_p_s_k_o_h_r_v_a_t_s_k_i_ _/_ _—_Å_—_Ä_–_ø_—_Å_–_∫_–_æ_—_Ö_—_Ä_–_≤_–_∞_—_Ç_—_Å_–_∫_–_∏
+    * _S_u_o_m_i
+    * _S_v_e_n_s_k_a
+    * _T_a_g_a_l_o_g
+    * _‡_Æ_§_‡_Æ_Æ_‡_Æ_ø_‡_Æ_¥_‡_Ø_ç
+    * _‡_π_Ñ_‡_∏_ó_‡_∏_¢
+    * _T_√_º_r_k_√_ß_e
+    * _–_£_–_∫_—_Ä_–_∞_—_ó_–_Ω_—_Å_—_å_–_∫_–_∞
+    * _ÿ_ß_ÿ_±_ÿ_Ø_Ÿ_à
+    * _T_i_·_∫_ø_n_g_ _V_i_·_ª_á_t
+    * _W_i_n_a_r_a_y
+    * _Á_≤_µ_Ë_™_û
+    * _‰_∏_≠_Ê_ñ_á
+    * _E_d_i_t_ _l_i_n_k_s
+    * This page was last modified on 20 August 2013 at 22:10.
+    * Text is available under the _C_r_e_a_t_i_v_e_ _C_o_m_m_o_n_s_ _A_t_t_r_i_b_u_t_i_o_n_-_S_h_a_r_e_A_l_i_k_e
+      _L_i_c_e_n_s_e; additional terms may apply. By using this site, you agree to the
+      _T_e_r_m_s_ _o_f_ _U_s_e and _P_r_i_v_a_c_y_ _P_o_l_i_c_y_.
+      Wikipedia¬Æ is a registered trademark of the _W_i_k_i_m_e_d_i_a_ _F_o_u_n_d_a_t_i_o_n_,_ _I_n_c_.,
+      a non-profit organization.
+    * _P_r_i_v_a_c_y_ _p_o_l_i_c_y
+    * _A_b_o_u_t_ _W_i_k_i_p_e_d_i_a
+    * _D_i_s_c_l_a_i_m_e_r_s
+    * _C_o_n_t_a_c_t_ _W_i_k_i_p_e_d_i_a
+    * _M_o_b_i_l_e_ _v_i_e_w
+    * _[_W_i_k_i_m_e_d_i_a_ _F_o_u_n_d_a_t_i_o_n_]
+    * _[_P_o_w_e_r_e_d_ _b_y_ _M_e_d_i_a_W_i_k_i_]
+

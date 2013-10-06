@@ -1,0 +1,643 @@
+
+
+
+
+
+
+
+
+
+
+************ WWeebb ddeessiiggnn ************
+From Wikipedia, the free encyclopedia
+¬ ¬ (Redirected from _W_e_b_ _D_e_s_i_g_n)
+Jump to: _n_a_v_i_g_a_t_i_o_n, _s_e_a_r_c_h
+_[_P_a_g_e_ _s_e_m_i_-_p_r_o_t_e_c_t_e_d_]
+ TThhiiss aarrttiiccllee hhaass mmuullttiippllee iissssuueess. Please help _ii_mm_pp_rr_oo_vv_ee_ _ii_tt or discuss these
+ issues on the _tt_aa_ll_kk_ _pp_aa_gg_ee.
+  This article nneeeeddss aaddddiittiioonnaall cciittaattiioonnss ffoorr vveerriiffiiccaattiioonn. Please help _i_m_p_r_o_v_e
+  _t_h_i_s_ _a_r_t_i_c_l_e by _a_d_d_i_n_g_ _c_i_t_a_t_i_o_n_s_ _t_o_ _r_e_l_i_a_b_l_e_ _s_o_u_r_c_e_s. Unsourced material may
+  be _c_h_a_l_l_e_n_g_e_d and _r_e_m_o_v_e_d. (October 2011)
+  This article ccoonnttaaiinnss _ii_nn_ss_tt_rr_uu_cc_tt_ii_oo_nn_ss_,,_ _aa_dd_vv_ii_cc_ee_,,_ _oo_rr_ _hh_oo_ww_--_tt_oo_ _cc_oo_nn_tt_ee_nn_tt. The purpose of
+  Wikipedia is to present facts, not to train. Please help _i_m_p_r_o_v_e_ _t_h_i_s_ _a_r_t_i_c_l_e
+  either by rewriting the how-to content or by _m_o_v_i_n_g it to _W_i_k_i_v_e_r_s_i_t_y,
+  _W_i_k_i_b_o_o_k_s or _W_i_k_i_v_o_y_a_g_e (June 2012)
+WWeebb ddeessiiggnn encompasses many different skills and disciplines in the production
+and maintenance of websites. The different areas of web design include web
+graphic design; _i_n_t_e_r_f_a_c_e_ _d_e_s_i_g_n; authoring, including standardised code and
+proprietary software; _u_s_e_r_ _e_x_p_e_r_i_e_n_c_e_ _d_e_s_i_g_n; and _s_e_a_r_c_h_ _e_n_g_i_n_e_ _o_p_t_i_m_i_z_a_t_i_o_n.
+Often many individuals will work in teams covering different aspects of the
+design process, although some designers will cover them all._[_1_] The term web
+design is normally used to describe the design process relating to the front-
+end (client side) design of a website including writing mark up. Web design
+partially overlaps _w_e_b_ _e_n_g_i_n_e_e_r_i_n_g in the broader scope of _w_e_b_ _d_e_v_e_l_o_p_m_e_n_t. Web
+designers are expected to have an awareness of _u_s_a_b_i_l_i_t_y and if their role
+involves creating mark up then they are also expected to be up to date with _w_e_b
+_a_c_c_e_s_s_i_b_i_l_i_t_y guidelines.
+********** CCoonntteennttss **********
+    * _1_ _H_i_s_t_o_r_y
+          o _1_._1_ _1_9_8_8_‚_Ä_î_2_0_0_1
+                # _1_._1_._1_ _T_h_e_ _s_t_a_r_t_ _o_f_ _t_h_e_ _w_e_b_ _a_n_d_ _w_e_b_ _d_e_s_i_g_n
+                # _1_._1_._2_ _E_v_o_l_u_t_i_o_n_ _o_f_ _w_e_b_ _d_e_s_i_g_n
+                # _1_._1_._3_ _E_n_d_ _o_f_ _t_h_e_ _f_i_r_s_t_ _b_r_o_w_s_e_r_ _w_a_r_s
+          o _1_._2_ _2_0_0_1_‚_Ä_î_2_0_1_2
+                # _1_._2_._1_ _M_o_d_e_r_n_ _b_r_o_w_s_e_r_s
+                # _1_._2_._2_ _N_e_w_ _s_t_a_n_d_a_r_d_s
+    * _2_ _T_o_o_l_s_ _a_n_d_ _t_e_c_h_n_o_l_o_g_i_e_s
+    * _3_ _S_k_i_l_l_s_ _a_n_d_ _t_e_c_h_n_i_q_u_e_s
+          o _3_._1_ _M_a_r_k_e_t_i_n_g_ _a_n_d_ _c_o_m_m_u_n_i_c_a_t_i_o_n_ _d_e_s_i_g_n
+          o _3_._2_ _U_s_e_r_ _e_x_p_e_r_i_e_n_c_e_ _d_e_s_i_g_n_ _a_n_d_ _i_n_t_e_r_a_c_t_i_v_e_ _d_e_s_i_g_n
+          o _3_._3_ _P_a_g_e_ _l_a_y_o_u_t
+          o _3_._4_ _T_y_p_o_g_r_a_p_h_y
+          o _3_._5_ _M_o_t_i_o_n_ _g_r_a_p_h_i_c_s
+          o _3_._6_ _Q_u_a_l_i_t_y_ _o_f_ _c_o_d_e
+    * _4_ _O_c_c_u_p_a_t_i_o_n_s
+    * _5_ _S_e_e_ _a_l_s_o
+          o _5_._1_ _R_e_l_a_t_e_d_ _t_o_p_i_c_s
+          o _5_._2_ _R_e_l_a_t_e_d_ _d_i_s_c_i_p_l_i_n_e_s
+    * _6_ _R_e_f_e_r_e_n_c_e_s
+    * _7_ _E_x_t_e_r_n_a_l_ _l_i_n_k_s
+********** HHiissttoorryy **********
+******** 11998888‚‚ÄÄîî22000011 ********
+Although web design has a fairly recent history, it can be linked to other
+areas such as graphic design. However web design is also seen as a
+technological standpoint. It has become a large part of people‚Äôs everyday
+lives. It is hard to imagine the Internet without animated graphics, different
+styles of typography, background and music.
+****** TThhee ssttaarrtt ooff tthhee wweebb aanndd wweebb ddeessiiggnn ******
+In 1989, whilst working at _C_E_R_N _T_i_m_ _B_e_r_n_e_r_s_-_L_e_e proposed to create a global
+hypertext project, which later became known as the _W_o_r_l_d_ _W_i_d_e_ _W_e_b. Throughout
+1991 to 1993 the World Wide Web was born. Text only pages could be viewed using
+a simple line-mode browser._[_2_] In 1993 _M_a_r_c_ _A_n_d_r_e_e_s_s_e_n and _E_r_i_c_ _B_i_n_a, created
+the _M_o_s_a_i_c_ _b_r_o_w_s_e_r. At the time there were multiple browsers however the
+majority of them were Unix-based and were naturally text heavy. There had been
+no integrated approach to graphical design elements such as images or sounds.
+The Mosaic browser broke this mould._[_3_] The _W_3_C was created in October 1994, to
+"lead the World Wide Web to its full potential by developing common protocols
+that promote its evolution and ensure its interoperability."_[_4_] This
+discouraged any one company from monopolizing a propriety browser and
+programming language, which could have altered the effect of the World Wide Web
+as a whole. The W3C continues to set standards, which can today be seen with
+JavaScript. In 1994 Andreessen formed Communications corp. That later became
+known as _N_e_t_s_c_a_p_e_ _C_o_m_m_u_n_i_c_a_t_i_o_n_s the Netscape 0.9 browser. Netscape created its
+own HTML tags without regards to the traditional standards process. For example
+Netscape 1.1 included tags for changing background colours and formatting text
+with tables on web pages. Throughout 1996 to 1999 the _b_r_o_w_s_e_r_ _w_a_r_s began. The
+browser wars saw _M_i_c_r_o_s_o_f_t and _N_e_t_s_c_a_p_e battle it out for the ultimate browser
+dominance. During this time there were many new technologies in the field,
+notably _C_a_s_c_a_d_i_n_g_ _S_t_y_l_e_ _S_h_e_e_t_s, _J_a_v_a_S_c_r_i_p_t, and _D_y_n_a_m_i_c_ _H_T_M_L. On a whole the
+browser competition did lead to many positive creations and helped web design
+evolve at a rapid pace._[_5_]
+****** EEvvoolluuttiioonn ooff wweebb ddeessiiggnn ******
+In 1996, Microsoft released its first competitive browser, which was complete
+with its own features and tags. It was also the first browser to support style
+sheets, which at the time was seen as an obscure authoring technique._[_5_] The
+_H_T_M_L_ _m_a_r_k_u_p for _t_a_b_l_e_s was originally intended for displaying tabular data.
+However designers quickly realized the potential of using HTML tables for
+creating the complex, multi-column layouts that were otherwise not possible. At
+this time, as design and good aesthetics seemed to take precedence over good
+mark-up structure, and little attention was paid to semantics and _w_e_b
+_a_c_c_e_s_s_i_b_i_l_i_t_y. HTML sites were limited in their design options, even more so
+with earlier versions of HTML. To create complex designs, many web designers
+had to use complicated table structures or even use blank _s_p_a_c_e_r_ _._G_I_F images to
+stop empty table cells from collapsing._[_6_] _C_S_S was introduced in December 1996
+by the _W_3_C to support presentation and layout; this allowed _H_T_M_L code to be
+semantic rather than both semantic and presentational, and improved web
+accessibility, see _t_a_b_l_e_l_e_s_s_ _w_e_b_ _d_e_s_i_g_n.
+In 1996, _F_l_a_s_h (originally known as FutureSplash) was developed. At the time,
+the Flash content development tool was relatively simple compared to now, using
+basic layout and drawing tools, a limited precursor to _A_c_t_i_o_n_S_c_r_i_p_t, and a
+timeline, but it enabled web designers to go beyond the point of HTML, _a_n_i_m_a_t_e_d
+_G_I_F_s and _J_a_v_a_S_c_r_i_p_t. However, because Flash required a _p_l_u_g_-_i_n, many web
+developers avoided using it for fear of limiting their market share from lack
+of compatibility. Instead, designers reverted to gif animations (if they didn't
+forego using _m_o_t_i_o_n_ _g_r_a_p_h_i_c_s altogether) and JavaScript for _w_i_d_g_e_t_s. But the
+benefits of Flash made it popular enough among specific target markets to
+eventually work its way to the vast majority of browsers, and powerful enough
+to be used to develop entire sites._[_6_]
+****** EEnndd ooff tthhee ffiirrsstt bbrroowwsseerr wwaarrss ******
+During 1998 Netscape released Netscape Communicator code under an _o_p_e_n_ _s_o_u_r_c_e
+_l_i_c_e_n_c_e, enabling thousands of developers to participate in improving the
+software. However, they decided to stop and start from the beginning, which
+guided the development of the open source browser and soon expanded to a
+complete application platform._[_5_] The _W_e_b_ _S_t_a_n_d_a_r_d_s_ _P_r_o_j_e_c_t was formed, and
+promoted browser compliance with _H_T_M_L and _C_S_S standards by creating _A_c_i_d_1,
+_A_c_i_d_2, and _A_c_i_d_3 tests. 2000 was a big year for Microsoft. Internet Explorer
+had been released for Mac, this was significant as it was the first browser
+that fully supported HTML 4.01 and CSS 1, raising the bar in terms of standards
+compliance. It was also the first browser to fully support the _P_N_G image
+format._[_5_] During this time Netscape was sold to _A_O_L and this was seen as
+Netscape‚Äôs official loss to Microsoft in the browser wars._[_5_]
+******** 22000011‚‚ÄÄîî22001122 ********
+Since the start of the 21st century the web has become more and more integrated
+into peoples lives, as this has happened the technology of the web has also
+moved on. There have also been significant changes in the way people use and
+access the web, and this has changed how sites are designed.
+****** MMooddeerrnn bbrroowwsseerrss ******
+Since the end of the browsers wars there have been new browsers coming onto the
+scene. Many of these are _o_p_e_n_ _s_o_u_r_c_e meaning that they tend to have faster
+development and are more supportive of new standards. The new options are
+considered by many to be better that Microsoft's _I_n_t_e_r_n_e_t_ _E_x_p_l_o_r_e_r.
+****** NNeeww ssttaannddaarrddss ******
+The _W_3_C has released new standards of HTML (_H_T_M_L_5) and CSS (_C_S_S_3), as well as
+new _J_a_v_a_S_c_r_i_p_t _A_P_I_'_s each as a new but individual standard. However, while the
+term HTML5 is only used to refer to the new version of HTML and some of the
+JavaScript API's, it has become common to use it to refer to the entire suite
+of new standards (HTML5, CSS3 and JavaScript)
+********** TToooollss aanndd tteecchhnnoollooggiieess **********
+Web designers use a variety of different tools depending on what part of the
+production process they are involved in. These tools are updated over time by
+newer standards and software but the principles behind them remain the same.
+Web graphic designers use vector and raster graphics packages for creating web
+formatted imagery or design prototypes. Technologies used for creating websites
+include standardised mark-up, which could be hand-coded or generated by _W_Y_S_I_W_Y_G
+_e_d_i_t_i_n_g_ _s_o_f_t_w_a_r_e. There is also proprietary software based on plug-ins that
+bypasses the client‚Äôs browsers versions. These are often WYSIWYG but with the
+option of using the software‚Äôs scripting language. _S_e_a_r_c_h_ _e_n_g_i_n_e_ _o_p_t_i_m_i_s_a_t_i_o_n
+tools may be used to check search engine ranking and suggest improvements.
+Other tools web designers might use include mark up _v_a_l_i_d_a_t_o_r_s_[_7_] and other
+testing tools for usability and accessibility to ensure their web sites meet
+web accessibility guidelines._[_8_]
+********** SSkkiillllss aanndd tteecchhnniiqquueess **********
+******** MMaarrkkeettiinngg aanndd ccoommmmuunniiccaattiioonn ddeessiiggnn ********
+Marketing and communication design on a website may identify what works for its
+target market. This can be an age group or particular strand of culture; thus
+the designer may understand the trends of its audience. Designers may also
+understand the type of website they are designing, meaning, for example, that
+(B2B) _b_u_s_i_n_e_s_s_-_t_o_-_b_u_s_i_n_e_s_s website design considerations might differ greatly
+from a consumer targeted website such as a _r_e_t_a_i_l or entertainment website.
+Careful consideration might be made to ensure that the aesthetics or overall
+design of a site do not clash with the clarity and accuracy of the content or
+the ease of _w_e_b_ _n_a_v_i_g_a_t_i_o_n, _[_9_] especially on a B2B website. Designers may also
+consider the reputation of the owner or business the site is representing to
+make sure they are portrayed favourably.
+******** UUsseerr eexxppeerriieennccee ddeessiiggnn aanndd iinntteerraaccttiivvee ddeessiiggnn ********
+Users understanding the content of a website often depends on users
+understanding how the website works. This is part of the _u_s_e_r_ _e_x_p_e_r_i_e_n_c_e
+_d_e_s_i_g_n. User experience is related to layout, clear instructions and labeling
+on a website. How well a user understands how they can interact on a site may
+also depend on the _i_n_t_e_r_a_c_t_i_v_e_ _d_e_s_i_g_n of the site. If a user perceives the
+usefulness of that website, they are more likely to continue using it. Users
+who are skilled and well versed with website use may find a more unique, yet
+less intuitive or less _u_s_e_r_-_f_r_i_e_n_d_l_y website interface useful nonetheless.
+However, users with less experience are less likely to see the advantages or
+usefulness of a less intuitive website interface. This drives the trend for a
+more universal user experience and ease of access to accommodate as many users
+as possible regardless of user skill._[_1_0_] Much of the user experience design
+and interactive design are considered in the _u_s_e_r_ _i_n_t_e_r_f_a_c_e_ _d_e_s_i_g_n.
+Advanced interactive functions may require _p_l_u_g_-_i_n_s if not advanced coding
+language skills. Choosing whether or not to use interactivity that requires
+plug-ins is a critical decision in user experience design. If the plug-in
+doesn't come pre-installed with most browsers, there's a risk that the user
+will have neither the know how, nor the patience to install a plug-in just to
+access the content. If the function requires advanced coding language skills,
+it may be too costly in either time or money to code compared to the amount of
+enhancement the function will add to the user experience. There's also a risk
+that advanced interactivity may be incompatible with older browsers or hardware
+configurations. Publishing a function that doesn't work reliably is potentially
+worse for the user experience than making no attempt. It depends on the target
+audience if it's likely to be needed or worth any risks.
+******** PPaaggee llaayyoouutt ********
+Part of the user interface design is affected by the quality of the _p_a_g_e
+_l_a_y_o_u_t. For example, a designer may consider if the sites page layout should
+remain consistent on different pages when designing the layout. Page pixel
+width may also be considered vital for aligning objects in the layout design.
+The most popular fixed-width websites generally have the same set width to
+match the current most popular browser window, at the current most popular
+screen resolution, on the current most popular monitor size. Most pages are
+also center-aligned for concerns of _a_e_s_t_h_e_t_i_c_s on larger screens._[_1_1_]
+Fluid layouts increased in popularity around 2000 as an alternative to HTML-
+table-based layouts and _g_r_i_d_-_b_a_s_e_d_ _d_e_s_i_g_n in both page layout design principle,
+and in coding technique, but were very slow to be adopted._[_n_o_t_e_ _1_] This was due
+to considerations of _s_c_r_e_e_n_ _r_e_a_d_i_n_g_ _d_e_v_i_c_e_s and windows varying in sizes which
+designers have no control over. Accordingly, a design may be broken down into
+units (sidebars, content blocks, _e_m_b_e_d_d_e_d_ _a_d_v_e_r_t_i_s_i_n_g areas, navigation areas)
+that are sent to the browser and which will be fitted into the display window
+by the browser, as best it can. As the browser does recognize the details of
+the reader's screen (window size, font size relative to window etc.) the
+browser can make user-specific layout adjustments to fluid layouts, but not
+fixed-width layouts. Although such a display may often change the relative
+position of major content units, sidebars may be displaced below _b_o_d_y_ _t_e_x_t
+rather than to the side of it. This is a more flexible display than a hard-
+coded grid-based layout that doesn't fit the device window. In particular, the
+relative position of content blocks may change while leaving the content within
+the block unaffected. This also minimizes the user's need to horizontally
+scroll the page.
+_R_e_s_p_o_n_s_i_v_e_ _W_e_b_ _D_e_s_i_g_n is a newer approach, based on CSS3, and a deeper level of
+per-device specification within the page's stylesheet through an enhanced use
+of the CSS @media pseudo-selector.
+******** TTyyppooggrraapphhyy ********
+Web designers may choose to limit the variety of website typefaces to only a
+few which are of a similar style, instead of using a wide range of _t_y_p_e_f_a_c_e_s or
+_t_y_p_e_ _s_t_y_l_e_s. Most browsers recognize a specific number of safe fonts, which
+designers mainly use in order to avoid complications.
+Font downloading was later included in the CSS3 fonts module and has since been
+implemented in Safari 3.1, Opera 10 and Mozilla Firefox 3.5. This has
+subsequently increased interest in _w_e_b_ _t_y_p_o_g_r_a_p_h_y, as well as the usage of font
+downloading.
+Most layouts on a site incorporate negative space to break the text up into
+paragraphs and also avoid center-aligned text. _[_1_2_]
+******** MMoottiioonn ggrraapphhiiccss ********
+The page layout and user interface may also be affected by the use of motion
+graphics. The choice of whether or not to use motion graphics may depend on the
+target market for the website. Motion graphics may be expected or at least
+better received with an entertainment-oriented website. However, a website
+target audience with a more serious or formal interest (such as business,
+community, or government) might find animations unnecessary and distracting if
+only for entertainment or decoration purposes. This doesn't mean that more
+serious content couldn't be enhanced with animated or video presentations that
+is relevant to the content. In either case, _m_o_t_i_o_n_ _g_r_a_p_h_i_c_ _d_e_s_i_g_n may make the
+difference between more effective visuals or distracting visuals.
+******** QQuuaalliittyy ooff ccooddee ********
+Website designers may consider it to be good practice to conform to standards.
+This is usually done via a description specifying what the element is doing.
+Failure to conform to standards may not make a website unusable or error prone,
+but standards can relate to the correct layout of pages for readability as well
+making sure coded elements are closed appropriately. This includes errors in
+code, more organized layout for code, and making sure IDs and classes are
+identified properly. Poorly-coded pages are sometimes colloquially called _t_a_g
+_s_o_u_p. _V_a_l_i_d_a_t_i_n_g_ _v_i_a_ _W_3_C_[_7_] can only be done when a correct DOCTYPE declaration
+is made, which is used to highlight errors in code. The system identifies the
+errors and areas that do not conform to web design standards. This information
+can then be corrected by the user._[_1_3_]
+********** OOccccuuppaattiioonnss **********
+There are two primary jobs involved in creating a website: the web designer and
+_w_e_b_ _d_e_v_e_l_o_p_e_r, who often work closely together on a website._[_1_4_] The web
+designers are responsible for the visual aspect, which includes the layout,
+coloring and typography of a web page. Web designers will also have a working
+knowledge of using a variety of languages such as HTML, CSS, JavaScript, PHP
+and Flash to create a site, although the extent of their knowledge will differ
+from one web designer to another. Particularly in smaller organizations one
+person will need the necessary skills for designing and programming the full
+web page, while larger organizations may have a web designer responsible for
+the visual aspect alone._[_1_5_]
+Further jobs, which under particular circumstances may become involved during
+the creation of a website include:
+    * _G_r_a_p_h_i_c_ _d_e_s_i_g_n_e_r_s to create visuals for the site such as logos, layouts
+      and buttons
+    * Internet marketing specialists to help maintain web presence through
+      strategic solutions on targeting viewers to the site, by using marketing
+      and promotional techniques on the internet
+    * SEO writers to research and recommend the correct words to be
+      incorporated into a particular website and make the website more
+      accessible and found on numerous search engines
+    * Internet copywriter to create the written content of the page to appeal
+      to the targeted viewers of the site_[_1_]
+    * User experience (UX) designer incorporates aspects of user focused design
+      considerations which include information architecture, user centered
+      design, user testing, interaction design, and occasionally visual design.
+      _[_1_6_]
+********** SSeeee aallssoo **********
+******** RReellaatteedd ttooppiiccss ********
+    * _A_e_s_t_h_e_t_i_c_s              * _G_r_a_p_h_i_c_ _a_r_t_ _s_o_f_t_w_a_r_e     * _W_e_b_ _2_._0
+    * _C_o_l_o_r_ _t_h_e_o_r_y            * _G_r_a_p_h_i_c_ _d_e_s_i_g_n           * _W_e_b_ _c_o_l_o_r_s
+    * _C_o_m_p_o_s_i_t_i_o_n_ _(_v_i_s_u_a_l       _o_c_c_u_p_a_t_i_o_n_s              * _W_e_b_ _s_a_f_e_ _f_o_n_t_s
+      _a_r_t_s_)                   * _G_r_a_p_h_i_c_s                 * _W_e_b_ _u_s_a_b_i_l_i_t_y
+    * _C_r_o_s_s_-_b_r_o_w_s_e_r           * _I_n_f_o_r_m_a_t_i_o_n_ _g_r_a_p_h_i_c_s     * _W_e_b_ _a_p_p_l_i_c_a_t_i_o_n
+    * _D_e_s_i_g_n_ _e_d_u_c_a_t_i_o_n        * _L_i_s_t_ _o_f_ _g_r_a_p_h_i_c            _f_r_a_m_e_w_o_r_k
+    * _D_e_s_i_g_n_ _p_r_i_n_c_i_p_l_e_s         _d_e_s_i_g_n_ _i_n_s_t_i_t_u_t_i_o_n_s      * _W_e_b_s_i_t_e_ _a_r_c_h_i_t_e_c_t_u_r_e
+      _a_n_d_ _e_l_e_m_e_n_t_s            * _L_i_s_t_ _o_f_ _n_o_t_a_b_l_e          * _W_e_b_s_i_t_e_ _a_w_a_r_d_s
+    * _D_r_a_w_i_n_g                   _g_r_a_p_h_i_c_ _d_e_s_i_g_n_e_r_s        * _W_e_b_s_i_t_e_ _b_u_i_l_d_e_r
+    * _E_u_r_o_p_e_a_n_ _D_e_s_i_g_n         * _L_o_g_o_t_y_p_e                 * _W_e_b_s_i_t_e_ _w_i_r_e_f_r_a_m_e
+      _A_w_a_r_d_s                  * _P_r_o_g_r_e_s_s_i_v_e
+    * _F_i_r_s_t_ _T_h_i_n_g_s_ _F_i_r_s_t        _E_n_h_a_n_c_e_m_e_n_t
+      _2_0_0_0_ _m_a_n_i_f_e_s_t_o          * _S_t_y_l_e_ _g_u_i_d_e
+******** RReellaatteedd ddiisscciipplliinneess ********
+    * _C_o_m_m_u_n_i_c_a_t_i_o_n_ _d_e_s_i_g_n     * _I_n_t_e_r_a_c_t_i_o_n_ _d_e_s_i_g_n     * _T_e_c_h_n_i_c_a_l_ _W_r_i_t_e_r
+    * _C_o_p_y_w_r_i_t_i_n_g              * _I_n_f_o_r_m_a_t_i_o_n_ _d_e_s_i_g_n     * _T_y_p_o_g_r_a_p_h_y
+    * _D_e_s_k_t_o_p_ _p_u_b_l_i_s_h_i_n_g       * _M_a_r_k_e_t_i_n_g              * _U_s_e_r_ _e_x_p_e_r_i_e_n_c_e
+    * _D_i_g_i_t_a_l_ _i_l_l_u_s_t_r_a_t_i_o_n       _c_o_m_m_u_n_i_c_a_t_i_o_n_s         * _U_s_e_r_ _i_n_t_e_r_f_a_c_e_ _d_e_s_i_g_n
+    * _G_r_a_p_h_i_c_ _d_e_s_i_g_n           * _N_e_w_ _m_e_d_i_a              * _W_e_b_ _d_e_v_e_l_o_p_m_e_n_t
+                               * _S_e_a_r_c_h_ _e_n_g_i_n_e
+                                 _o_p_t_i_m_i_z_a_t_i_o_n (SEO)
+********** RReeffeerreenncceess **********
+   1. _^^ <table>-based markup and _s_p_a_c_e_r_ _._G_I_F images
+   1. ^ _aa _bb Lester, Georgina. _"_D_i_f_f_e_r_e_n_t_ _j_o_b_s_ _a_n_d_ _r_e_s_p_o_n_s_i_b_i_l_i_t_i_e_s_ _o_f_ _v_a_r_i_o_u_s
+      _p_e_o_p_l_e_ _i_n_v_o_l_v_e_d_ _i_n_ _c_r_e_a_t_i_n_g_ _a_ _w_e_b_s_i_t_e_". Arts Wales UK. Retrieved 2012-03-
+      17. 
+   2. _^^ _"_h_t_t_p_:_/_/_w_w_w_._w_3_._o_r_g_/_P_e_o_p_l_e_/_B_e_r_n_e_r_s_-_L_e_e_/_L_o_n_g_e_r_._h_t_m_l_". Retrieved 2012-03-
+      16. 
+   3. _^^ _"_M_o_s_a_i_c_ _B_r_o_w_s_e_r_". Retrieved 2012-03-16. 
+   4. _^^ Zwicky, E.D, Cooper, S and Chapman, D,B. (2000). Building Internet
+      Firewalls. United States: O‚ÄôReily & Associates. p. 804. _I_S_B_N _1_-_5_6_5_9_2_-
+      _8_7_1_-_7. 
+   5. ^ _aa _bb _cc _dd _ee Niederst, Jennifer (2006). _W_e_b_ _D_e_s_i_g_n_ _I_n_ _a_ _N_u_t_s_h_e_l_l. United
+      States of America: O'Reilly Media. pp. 12‚Äì14. _I_S_B_N _0_-_5_9_6_-_0_0_9_8_7_-_9. 
+   6. ^ _aa _bb Chapman, Cameron. _"_T_h_e_ _E_v_o_l_u_t_i_o_n_ _o_f_ _W_e_b_ _D_e_s_i_g_n_". Retrieved 2012-03-
+      17. 
+   7. ^ _aa _bb _"_W_3_C_ _M_a_r_k_u_p_ _V_a_l_i_d_a_t_i_o_n_ _S_e_r_v_i_c_e_". 
+   8. _^^ W3C. _"_W_e_b_ _A_c_c_e_s_s_i_b_i_l_i_t_y_ _I_n_i_t_i_a_t_i_v_e_ _(_W_A_I_)_". 
+   9. _^^ THORLACIUS, LISBETH (2007). _"_T_h_e_ _R_o_l_e_ _o_f_ _A_e_s_t_h_e_t_i_c_s_ _i_n_ _W_e_b_ _D_e_s_i_g_n_".
+      Nordicom Review (28): 63‚Äì76. Retrieved 2012-03-21. 
+  10. _^^ Castan ÃÉeda, J.A; Francisco Mun ÃÉoz-Leiva, Teodoro Luque (18). _"_W_e_b
+      _A_c_c_e_p_t_a_n_c_e_ _M_o_d_e_l_ _(_W_A_M_)_:_ _M_o_d_e_r_a_t_i_n_g_ _e_f_f_e_c_t_s_ _o_f_ _u_s_e_r_ _e_x_p_e_r_i_e_n_c_e_".
+      Information & Management 4444: 384‚Äì396. Retrieved 2012-03-21. 
+  11. _^^ Iteracy. _"_W_e_b_ _p_a_g_e_ _s_i_z_e_ _a_n_d_ _l_a_y_o_u_t_". Retrieved 2012-03-19. 
+  12. _^^ Stone, John. _"_2_0_ _D_o_‚_Ä_ô_s_ _a_n_d_ _D_o_n_‚_Ä_ô_t_s_ _o_f_ _E_f_f_e_c_t_i_v_e_ _W_e_b_ _T_y_p_o_g_r_a_p_h_y_". 
+  13. _^^ W3C QA. _"_M_y_ _W_e_b_ _s_i_t_e_ _i_s_ _s_t_a_n_d_a_r_d_!_ _A_n_d_ _y_o_u_r_s_?_". Retrieved 2012-03-21. 
+  14. _^^ Oleksy, Walter (2001). _C_a_r_e_e_r_s_ _i_n_ _W_e_b_ _D_e_s_i_g_n. New York: The Rosen
+      Publishing Group,Inc. pp. 9‚Äì11. _I_S_B_N _9_7_8_0_8_2_3_9_3_1_9_1_0. 
+  15. _^^ _"_W_e_b_ _D_e_s_i_g_n_e_r_". Retrieved 2012-03-19. 
+  16. _^^ Davies, Anthony, J. _"_W_h_a_t_ _i_s_ _a_ _U_X_/_I_A_?_". Retrieved 2012-03-19. 
+********** EExxtteerrnnaall lliinnkkss **********
+ Wikiversity has learning materials about _WW_ee_bb_ _dd_ee_ss_ii_gg_nn
+    * _W_3_C_ _c_o_n_s_o_r_t_i_u_m_ _f_o_r_ _w_e_b_ _s_t_a_n_d_a_r_d_s
+    * _W_e_b_ _d_e_s_i_g_n_ _a_n_d_ _d_e_v_e_l_o_p_m_e_n_t at the _O_p_e_n_ _D_i_r_e_c_t_o_r_y_ _P_r_o_j_e_c_t
+    ** _vv
+    ** _tt
+    ** _ee
+_DD_ee_ss_ii_gg_nn
+    * _P_o_r_t_a_l
+    * _O_u_t_l_i_n_e_ _o_f_ _d_e_s_i_g_n
+    * _D_e_s_i_g_n_e_r
+                                                   * _A_d_v_e_r_t_i_s_i_n_g
+                                                   * _B_o_o_k_ _d_e_s_i_g_n
+                                                   * _C_o_r_p_o_r_a_t_e_ _d_e_s_i_g_n
+                                                   * _E_n_v_i_r_o_n_m_e_n_t_a_l_ _g_r_a_p_h_i_c
+                                                     _d_e_s_i_g_n
+                                                   * _E_x_h_i_b_i_t_ _d_e_s_i_g_n
+                                                   * _G_r_a_p_h_i_c_ _d_e_s_i_g_n
+                                                   * _I_l_l_u_s_t_r_a_t_i_o_n
+                                                   * _I_n_f_o_r_m_a_t_i_o_n_ _d_e_s_i_g_n
+                      _CC_oo_mm_mm_uu_nn_ii_cc_aa_tt_ii_oo_nn_ _dd_ee_ss_ii_gg_nn         * _I_n_s_t_r_u_c_t_i_o_n_a_l_ _d_e_s_i_g_n
+                                                   * _N_e_w_s_ _d_e_s_i_g_n
+                                                   * _P_h_o_t_o_g_r_a_p_h_y
+                                                   * _R_e_t_a_i_l_ _d_e_s_i_g_n
+                                                   * _S_i_g_n_a_g_e / _T_r_a_f_f_i_c_ _s_i_g_n
+                                                     _d_e_s_i_g_n
+                                                   * _S_u_s_t_a_i_n_a_b_l_e_ _g_r_a_p_h_i_c_ _d_e_s_i_g_n
+                                                   * _T_y_p_o_g_r_a_p_h_y
+                                                   * _V_i_d_e_o_ _d_e_s_i_g_n
+                                                   * _V_i_s_u_a_l_ _m_e_r_c_h_a_n_d_i_s_i_n_g
+                                                   * _A_r_c_h_i_t_e_c_t_u_r_a_l_ _l_i_g_h_t_i_n_g
+                                                     _d_e_s_i_g_n
+                                                   * _E_c_o_l_o_g_i_c_a_l_ _d_e_s_i_g_n
+                                                   * _E_n_v_i_r_o_n_m_e_n_t_a_l_ _i_m_p_a_c_t
+                                                     _d_e_s_i_g_n
+                                                   * _G_a_r_d_e_n_ _d_e_s_i_g_n
+                                                   * _I_n_t_e_r_i_o_r_ _a_r_c_h_i_t_e_c_t_u_r_e
+                      _EE_nn_vv_ii_rr_oo_nn_mm_ee_nn_tt_aa_ll_ _dd_ee_ss_ii_gg_nn         * _I_n_t_e_r_i_o_r_ _d_e_s_i_g_n
+                                                   * _K_e_y_l_i_n_e_ _d_e_s_i_g_n
+                                                   * _L_a_n_d_s_c_a_p_e_ _a_r_c_h_i_t_e_c_t_u_r_e
+                                                   * _L_a_n_d_s_c_a_p_e_ _d_e_s_i_g_n
+                                                   * _P_a_s_s_i_v_e_ _s_o_l_a_r
+                                                   * _S_u_s_t_a_i_n_a_b_l_e_ _l_a_n_d_s_c_a_p_e
+                                                     _a_r_c_h_i_t_e_c_t_u_r_e
+                                                   * _U_r_b_a_n_ _d_e_s_i_g_n
+                      _FF_aa_ss_hh_ii_oo_nn_ _dd_ee_ss_ii_gg_nn               * _C_o_s_t_u_m_e_ _d_e_s_i_g_n
+DDiisscciipplliinneess                                        * _J_e_w_e_l_r_y_ _d_e_s_i_g_n
+                                                   * _A_u_t_o_m_o_t_i_v_e_ _d_e_s_i_g_n
+                                                   * _F_u_r_n_i_t_u_r_e_ _d_e_s_i_g_n
+                      _II_nn_dd_uu_ss_tt_rr_ii_aa_ll_ _dd_ee_ss_ii_gg_nn            * _P_a_c_k_a_g_i_n_g_ _a_n_d_ _l_a_b_e_l_i_n_g
+                                                   * _P_r_o_d_u_c_t_ _d_e_s_i_g_n
+                                                   * _S_e_n_s_o_r_y_ _d_e_s_i_g_n
+                                                   * _S_e_r_v_i_c_e_ _d_e_s_i_g_n
+                                                   * _E_x_p_e_r_i_e_n_c_e_ _d_e_s_i_g_n
+                                                   * _G_a_m_e_ _d_e_s_i_g_n
+                                                   * _I_c_o_n_ _d_e_s_i_g_n
+                                                   * _I_m_m_e_r_s_i_v_e_ _d_e_s_i_g_n
+                                                   * _I_n_f_o_r_m_a_t_i_o_n_ _d_e_s_i_g_n
+                      _II_nn_tt_ee_rr_aa_cc_tt_ii_oo_nn_ _dd_ee_ss_ii_gg_nn           * _L_e_v_e_l_ _d_e_s_i_g_n
+                                                   * _M_o_t_i_o_n_ _g_r_a_p_h_i_c_ _d_e_s_i_g_n
+                                                   * _S_o_n_i_c_ _i_n_t_e_r_a_c_t_i_o_n_ _d_e_s_i_g_n
+                                                   * _U_s_e_r_ _e_x_p_e_r_i_e_n_c_e_ _d_e_s_i_g_n
+                                                   * _U_s_e_r_ _i_n_t_e_r_f_a_c_e_ _d_e_s_i_g_n
+                                                   * WWeebb ddeessiiggnn
+                                                   * _A_r_t_ _d_e_s_i_g_n
+                                                   * _A_r_c_h_i_t_e_c_t_u_r_e
+                                                   * _B_u_i_l_d_i_n_g_ _d_e_s_i_g_n
+                                                   * _L_a_n_d_s_c_a_p_e_ _d_e_s_i_g_n
+                                                   * _P_u_b_l_i_c_ _a_r_t_ _d_e_s_i_g_n
+                                                   * _C_e_r_a_m_i_c / _g_l_a_s_s_ _d_e_s_i_g_n
+                                                   * _D_a_t_a_b_a_s_e_ _d_e_s_i_g_n
+                                                   * _F_l_o_r_a_l_ _d_e_s_i_g_n
+                                                   * _P_r_o_d_u_c_t_i_o_n_ _d_e_s_i_g_n
+                      OOtthheerr ddeessiiggnn ddiisscciipplliinneess     * _G_a_m_e_ _a_r_t_ _d_e_s_i_g_n
+                                                   * _O_r_g_a_n_i_z_a_t_i_o_n_ _d_e_s_i_g_n
+                                                   * _P_r_o_c_e_s_s_ _d_e_s_i_g_n
+                                                   * _S_c_e_n_i_c_ _d_e_s_i_g_n
+                                                   * _S_o_c_i_a_l_ _d_e_s_i_g_n
+                                                   * _S_o_f_t_w_a_r_e_ _d_e_s_i_g_n
+                                                   * _S_o_u_n_d_ _d_e_s_i_g_n
+                                                   * _S_y_s_t_e_m_s_ _d_e_s_i_g_n
+                                                   * _T_e_x_t_i_l_e_ _d_e_s_i_g_n
+                                                   * _W_o_r_k_ _d_e_s_i_g_n
+                          * _A_c_t_i_v_i_t_y_-_c_e_n_t_e_r_e_d_ _d_e_s_i_g_n
+                          * _C_-_K_ _t_h_e_o_r_y
+                          * _C_o_-_d_e_s_i_g_n
+                          * _C_o_n_t_e_x_t_u_a_l_ _d_e_s_i_g_n
+                          * _C_r_a_d_l_e_-_t_o_-_c_r_a_d_l_e_ _d_e_s_i_g_n
+                          * _C_r_e_a_t_i_v_e_ _p_r_o_b_l_e_m_ _s_o_l_v_i_n_g
+                          * _C_r_e_a_t_i_v_i_t_y_ _t_e_c_h_n_i_q_u_e_s
+                          * _C_r_i_t_i_c_a_l_ _d_e_s_i_g_n
+                          * _D_e_s_i_g_n_‚_Ä_ì_b_i_d_‚_Ä_ì_b_u_i_l_d
+                          * _D_e_s_i_g_n_‚_Ä_ì_b_u_i_l_d
+                                o _A_r_c_h_i_t_e_c_t_-_l_e_d_ _d_e_s_i_g_n_‚_Ä_ì_b_u_i_l_d
+                          * _D_e_s_i_g_n_ _c_l_o_s_u_r_e
+                          * _D_e_s_i_g_n_ _f_o_r_ _S_i_x_ _S_i_g_m_a
+                          * _D_e_s_i_g_n_ _f_o_r_ _X
+                          * _D_e_s_i_g_n_ _l_e_a_d_e_r_s_h_i_p
+                          * _D_e_s_i_g_n_ _m_a_n_a_g_e_m_e_n_t
+                          * _D_e_s_i_g_n_ _m_e_t_h_o_d_s
+                          * _D_e_s_i_g_n_ _p_a_t_t_e_r_n
+                          * _D_e_s_i_g_n_ _r_e_s_e_a_r_c_h
+                          * _D_e_s_i_g_n_ _s_c_i_e_n_c_e
+                          * _D_e_s_i_g_n_ _s_t_r_a_t_e_g_y
+                          * _D_e_s_i_g_n_ _t_h_i_n_k_i_n_g
+                          * _E_c_o_d_e_s_i_g_n
+AApppprrooaacchheess                * _E_m_p_a_t_h_i_c_ _d_e_s_i_g_n
+                          * _E_n_g_i_n_e_e_r_i_n_g_ _d_e_s_i_g_n_ _p_r_o_c_e_s_s
+                          * _E_r_r_o_r_-_t_o_l_e_r_a_n_t_ _d_e_s_i_g_n
+                          * _F_a_u_l_t_-_t_o_l_e_r_a_n_t_ _d_e_s_i_g_n
+                          * _F_u_n_c_t_i_o_n_a_l_ _d_e_s_i_g_n
+                          * _K_I_S_S_ _p_r_i_n_c_i_p_l_e
+                          * _M_e_t_a_d_e_s_i_g_n
+                          * _M_i_n_d_ _m_a_p_p_i_n_g
+                          * _M_o_d_u_l_a_r_ _d_e_s_i_g_n
+                          * _O_p_e_n_ _d_e_s_i_g_n
+                          * _P_a_r_t_i_c_i_p_a_t_o_r_y_ _d_e_s_i_g_n
+                          * _R_e_g_e_n_e_r_a_t_i_v_e_ _d_e_s_i_g_n
+                          * _R_e_l_i_a_b_i_l_i_t_y_ _e_n_g_i_n_e_e_r_i_n_g
+                          * _S_a_f_e_-_l_i_f_e_ _d_e_s_i_g_n
+                          * _S_u_s_t_a_i_n_a_b_l_e_ _d_e_s_i_g_n
+                          * _T_h_e_o_r_y_ _o_f_ _c_o_n_s_t_r_a_i_n_t_s
+                          * _T_r_a_n_s_f_o_r_m_a_t_i_o_n_ _d_e_s_i_g_n
+                          * _T_r_a_n_s_g_e_n_e_r_a_t_i_o_n_a_l_ _d_e_s_i_g_n
+                          * _T_R_I_Z
+                          * _U_n_i_v_e_r_s_a_l_ _d_e_s_i_g_n
+                          * _U_s_a_g_e_-_c_e_n_t_e_r_e_d_ _d_e_s_i_g_n
+                          * _U_s_e_-_c_e_n_t_e_r_e_d_ _d_e_s_i_g_n
+                          * _U_s_e_r_-_c_e_n_t_e_r_e_d_ _d_e_s_i_g_n
+                          * _U_s_e_r_ _i_n_n_o_v_a_t_i_o_n
+                          * _E_u_r_o_p_e_a_n_ _D_e_s_i_g_n_ _A_w_a_r_d
+                          * _G_e_r_m_a_n_ _D_e_s_i_g_n_ _A_w_a_r_d
+                          * _G_o_o_d_ _D_e_s_i_g_n_ _A_w_a_r_d_s_ _(_C_h_i_c_a_g_o_)
+AAwwaarrddss                    * _G_o_o_d_ _D_e_s_i_g_n_ _A_w_a_r_d_s_ _(_J_a_p_a_n_)
+                          * _I_F_ _p_r_o_d_u_c_t_ _d_e_s_i_g_n_ _a_w_a_r_d
+                          * _J_a_m_e_s_ _D_y_s_o_n_ _A_w_a_r_d
+                          * _P_r_i_n_c_e_ _P_h_i_l_i_p_ _D_e_s_i_g_n_e_r_s_ _P_r_i_z_e
+                          * _C_o_m_m_u_n_i_t_y_ _d_e_s_i_g_n
+                          * _D_e_s_i_g_n_ _p_a_t_e_n_t
+IInntteelllleeccttuuaall pprrooppeerrttyy     * _G_e_s_c_h_m_a_c_k_s_m_u_s_t_e_r
+                          * _I_n_d_u_s_t_r_i_a_l_ _d_e_s_i_g_n_ _r_i_g_h_t_s
+                                o _E_u_r_o_p_e_a_n_ _U_n_i_o_n
+                          * _A_I_G_A
+                          * _C_h_a_r_t_e_r_e_d_ _S_o_c_i_e_t_y_ _o_f_ _D_e_s_i_g_n_e_r_s
+OOrrggaanniizzaattiioonnss             * _D_e_s_i_g_n_ _a_n_d_ _I_n_d_u_s_t_r_i_e_s_ _A_s_s_o_c_i_a_t_i_o_n
+                          * _D_e_s_i_g_n_ _C_o_u_n_c_i_l
+                          * _I_n_t_e_r_n_a_t_i_o_n_a_l_ _F_o_r_u_m_ _D_e_s_i_g_n
+                          * _T_h_e_ _D_e_s_i_g_n_ _S_o_c_i_e_t_y
+                          * _B_l_u_e_p_r_i_n_t
+                          * _C_o_m_p_r_e_h_e_n_s_i_v_e_ _l_a_y_o_u_t
+                          * _C_o_m_p_u_t_e_r_-_a_i_d_e_d_ _d_e_s_i_g_n
+                          * _F_l_o_w_c_h_a_r_t
+                          * _M_o_c_k_u_p
+TToooollss                     * _P_r_o_d_u_c_t_ _d_e_s_i_g_n_ _s_p_e_c_i_f_i_c_a_t_i_o_n
+                          * _P_r_o_t_o_t_y_p_e
+                          * _S_k_e_t_c_h
+                          * _S_t_o_r_y_b_o_a_r_d
+                          * _T_e_c_h_n_i_c_a_l_ _d_r_a_w_i_n_g
+                          * _W_e_b_s_i_t_e_ _w_i_r_e_f_r_a_m_e
+                          * _A_e_s_t_h_e_t_i_c_s
+                          * _A_p_p_l_i_e_d_ _a_r_t_s
+                          * _C_o_n_c_e_p_t_ _a_r_t
+                          * _C_r_e_a_t_i_v_e_ _i_n_d_u_s_t_r_i_e_s
+                          * _C_u_l_t_u_r_a_l_ _i_c_o_n
+                          * _D_e_s_i_g_n_ _b_r_i_e_f
+                          * _D_e_s_i_g_n_ _e_d_u_c_a_t_i_o_n
+                          * _D_e_s_i_g_n_ _e_l_e_m_e_n_t_s_ _a_n_d_ _p_r_i_n_c_i_p_l_e_s
+                          * _D_e_s_i_g_n_ _e_n_g_i_n_e_e_r
+                          * _D_e_s_i_g_n_ _f_i_r_m
+                          * _D_e_s_i_g_n_ _l_i_f_e
+RReellaatteedd ttooppiiccss            * _D_e_s_i_g_n_ _m_u_s_e_u_m
+                          * _D_e_s_i_g_n_ _r_a_t_i_o_n_a_l_e
+                          * _D_e_s_i_g_n_ _r_e_v_i_e_w
+                          * _D_e_s_i_g_n_ _s_p_e_c_i_f_i_c_a_t_i_o_n
+                          * _D_e_s_i_g_n_ _t_e_c_h_n_o_l_o_g_y
+                          * _E_n_t_e_r_p_r_i_s_e_ _a_r_c_h_i_t_e_c_t_u_r_e
+                          * _F_u_t_u_r_e_s_ _s_t_u_d_i_e_s
+                          * _N_e_w_ _p_r_o_d_u_c_t_ _d_e_v_e_l_o_p_m_e_n_t
+                          * _P_h_i_l_o_s_o_p_h_y_ _o_f_ _d_e_s_i_g_n
+                          * _P_r_o_c_e_s_s_ _s_i_m_u_l_a_t_i_o_n
+                          * _S_l_o_w_ _d_e_s_i_g_n
+                          * _V_i_s_u_a_l_i_z_a_t_i_o_n
+                          * _W_i_c_k_e_d_ _p_r_o_b_l_e_m
+    * See also: _C_o_m_m_o_n_s
+    * _W_i_k_i_b_o_o_k_s
+    * _W_i_k_i_n_e_w_s
+    * _W_i_k_i_q_u_o_t_e
+    * _W_i_k_i_s_o_u_r_c_e
+    * _W_i_k_t_i_o_n_a_r_y
+
+Retrieved from "_h_t_t_p_:_/_/_e_n_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_/
+_i_n_d_e_x_._p_h_p_?_t_i_t_l_e_=_W_e_b___d_e_s_i_g_n_&_o_l_d_i_d_=_5_6_2_9_7_8_2_8_4"
+_C_a_t_e_g_o_r_i_e_s:
+    * _W_e_b_ _d_e_s_i_g_n
+    * _C_o_m_m_u_n_i_c_a_t_i_o_n_ _d_e_s_i_g_n
+Hidden categories:
+    * _W_i_k_i_p_e_d_i_a_ _i_n_d_e_f_i_n_i_t_e_l_y_ _s_e_m_i_-_p_r_o_t_e_c_t_e_d_ _p_a_g_e_s
+    * _A_r_t_i_c_l_e_s_ _n_e_e_d_i_n_g_ _a_d_d_i_t_i_o_n_a_l_ _r_e_f_e_r_e_n_c_e_s_ _f_r_o_m_ _O_c_t_o_b_e_r_ _2_0_1_1
+    * _A_l_l_ _a_r_t_i_c_l_e_s_ _n_e_e_d_i_n_g_ _a_d_d_i_t_i_o_n_a_l_ _r_e_f_e_r_e_n_c_e_s
+    * _A_r_t_i_c_l_e_s_ _n_e_e_d_i_n_g_ _c_l_e_a_n_u_p_ _f_r_o_m_ _J_u_n_e_ _2_0_1_2
+    * _A_l_l_ _p_a_g_e_s_ _n_e_e_d_i_n_g_ _c_l_e_a_n_u_p
+    * _A_r_t_i_c_l_e_s_ _c_o_n_t_a_i_n_i_n_g_ _h_o_w_-_t_o_ _s_e_c_t_i_o_n_s
+********** NNaavviiggaattiioonn mmeennuu **********
+******** PPeerrssoonnaall ttoooollss ********
+    * _C_r_e_a_t_e_ _a_c_c_o_u_n_t
+    * _L_o_g_ _i_n
+******** NNaammeessppaacceess ********
+    * _A_r_t_i_c_l_e
+    * _T_a_l_k
+VVaarriiaannttss
+******** VViieewwss ********
+    * _R_e_a_d
+    * _V_i_e_w_ _s_o_u_r_c_e
+    * _V_i_e_w_ _h_i_s_t_o_r_y
+AAccttiioonnss
+******** SSeeaarrcchh ********
+[search              ]
+[Search]
+******** NNaavviiggaattiioonn ********
+    * _M_a_i_n_ _p_a_g_e
+    * _C_o_n_t_e_n_t_s
+    * _F_e_a_t_u_r_e_d_ _c_o_n_t_e_n_t
+    * _C_u_r_r_e_n_t_ _e_v_e_n_t_s
+    * _R_a_n_d_o_m_ _a_r_t_i_c_l_e
+    * _D_o_n_a_t_e_ _t_o_ _W_i_k_i_p_e_d_i_a
+******** IInntteerraaccttiioonn ********
+    * _H_e_l_p
+    * _A_b_o_u_t_ _W_i_k_i_p_e_d_i_a
+    * _C_o_m_m_u_n_i_t_y_ _p_o_r_t_a_l
+    * _R_e_c_e_n_t_ _c_h_a_n_g_e_s
+    * _C_o_n_t_a_c_t_ _p_a_g_e
+******** TToooollbbooxx ********
+    * _W_h_a_t_ _l_i_n_k_s_ _h_e_r_e
+    * _R_e_l_a_t_e_d_ _c_h_a_n_g_e_s
+    * _U_p_l_o_a_d_ _f_i_l_e
+    * _S_p_e_c_i_a_l_ _p_a_g_e_s
+    * _P_e_r_m_a_n_e_n_t_ _l_i_n_k
+    * _P_a_g_e_ _i_n_f_o_r_m_a_t_i_o_n
+    * _D_a_t_a_ _i_t_e_m
+    * _C_i_t_e_ _t_h_i_s_ _p_a_g_e
+******** PPrriinntt//eexxppoorrtt ********
+    * _C_r_e_a_t_e_ _a_ _b_o_o_k
+    * _D_o_w_n_l_o_a_d_ _a_s_ _P_D_F
+    * _P_r_i_n_t_a_b_l_e_ _v_e_r_s_i_o_n
+******** LLaanngguuaaggeess ********
+    * _ÿ_ß_Ÿ_Ñ_ÿ_π_ÿ_±_ÿ_®_Ÿ_ä_ÿ_©
+    * _A_z_…_ô_r_b_a_y_c_a_n_c_a
+    * _–_ë_–_µ_–_ª_–_∞_—_Ä_—_É_—_Å_–_∫_–_∞_—_è
+    * _–_ë_–_µ_–_ª_–_∞_—_Ä_—_É_—_Å_–_∫_–_∞_—_è_ _(_—_Ç_–_∞_—_Ä_–_∞_—_à_–_∫_–_µ_–_≤_—_ñ_—_Ü_–_∞_)_‚_Ä_é
+    * _–_ë_—_ä_–_ª_–_≥_–_∞_—_Ä_—_Å_–_∫_–_∏
+    * _B_o_s_a_n_s_k_i
+    * _C_a_t_a_l_√_ 
+    * _ƒ_å_e_s_k_y
+    * _D_e_u_t_s_c_h
+    * _E_e_s_t_i
+    * _Œ_ï_Œ_ª_Œ_ª_Œ_∑_Œ_Ω_Œ_π_Œ_∫_Œ_¨
+    * _E_s_p_a_√_±_o_l
+    * _Ÿ_Å_ÿ_ß_ÿ_±_ÿ_≥_€_å
+    * _F_r_a_n_√_ß_a_i_s
+    * _‡_™_ó_‡_´_Å_‡_™_ú_‡_™_∞_‡_™_æ_‡_™_§_‡_´_Ä
+    * _Ì_ï_ú_Í_µ_≠_Ï_ñ_¥
+    * _H_r_v_a_t_s_k_i
+    * _B_a_h_a_s_a_ _I_n_d_o_n_e_s_i_a
+    * _I_t_a_l_i_a_n_o
+    * _◊_¢_◊_ë_◊_®_◊_ô_◊_™
+    * _·_É_•_·_É_ê_·_É_ _·_É_ó_·_É_£_·_É_ö_·_É_ò
+    * _K_u_r_d_√_Æ
+    * _M_a_g_y_a_r
+    * _–_ú_–_∞_–_∫_–_µ_–_¥_–_æ_–_Ω_—_Å_–_∫_–_∏
+    * _N_e_d_e_r_l_a_n_d_s
+    * _Ê_ó_•_Ê_ú_¨_Ë_™_û
+    * _N_o_r_s_k_ _b_o_k_m_√_•_l
+    * _N_o_r_s_k_ _n_y_n_o_r_s_k
+    * _P_o_l_s_k_i
+    * _P_o_r_t_u_g_u_√_™_s
+    * _R_o_m_√_¢_n_ƒ_É
+    * _–_ _—_É_—_Å_—_Å_–_∫_–_∏_–_π
+    * _S_l_o_v_e_n_ƒ_ç_i_n_a
+    * _S_o_o_m_a_a_l_i_g_a
+    * _–_°_—_Ä_–_ø_—_Å_–_∫_–_∏_ _/_ _s_r_p_s_k_i
+    * _S_u_o_m_i
+    * _S_v_e_n_s_k_a
+    * _‡_Æ_§_‡_Æ_Æ_‡_Æ_ø_‡_Æ_¥_‡_Ø_ç
+    * _T_√_º_r_k_√_ß_e
+    * _–_£_–_∫_—_Ä_–_∞_—_ó_–_Ω_—_Å_—_å_–_∫_–_∞
+    * _T_i_·_∫_ø_n_g_ _V_i_·_ª_á_t
+    * _‰_∏_≠_Ê_ñ_á
+    * _E_d_i_t_ _l_i_n_k_s
+    * This page was last modified on 5 July 2013 at 14:12.
+    * Text is available under the _C_r_e_a_t_i_v_e_ _C_o_m_m_o_n_s_ _A_t_t_r_i_b_u_t_i_o_n_-_S_h_a_r_e_A_l_i_k_e
+      _L_i_c_e_n_s_e; additional terms may apply. By using this site, you agree to the
+      _T_e_r_m_s_ _o_f_ _U_s_e and _P_r_i_v_a_c_y_ _P_o_l_i_c_y_.
+      Wikipedia¬Æ is a registered trademark of the _W_i_k_i_m_e_d_i_a_ _F_o_u_n_d_a_t_i_o_n_,_ _I_n_c_.,
+      a non-profit organization.
+    * _P_r_i_v_a_c_y_ _p_o_l_i_c_y
+    * _A_b_o_u_t_ _W_i_k_i_p_e_d_i_a
+    * _D_i_s_c_l_a_i_m_e_r_s
+    * _C_o_n_t_a_c_t_ _W_i_k_i_p_e_d_i_a
+    * _M_o_b_i_l_e_ _v_i_e_w
+    * _[_W_i_k_i_m_e_d_i_a_ _F_o_u_n_d_a_t_i_o_n_]
+    * _[_P_o_w_e_r_e_d_ _b_y_ _M_e_d_i_a_W_i_k_i_]
+

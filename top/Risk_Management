@@ -1,0 +1,984 @@
+
+
+
+
+
+
+
+
+
+
+
+
+************ RRiisskk mmaannaaggeemmeenntt ************
+From Wikipedia, the free encyclopedia
+¬ ¬ (Redirected from _R_i_s_k_ _M_a_n_a_g_e_m_e_n_t)
+Jump to: _n_a_v_i_g_a_t_i_o_n, _s_e_a_r_c_h
+For non-business risks, see _r_i_s_k. For other uses, see _r_i_s_k_ _a_n_a_l_y_s_i_s_ 
+_(_d_i_s_a_m_b_i_g_u_a_t_i_o_n_). For the magazine, see _R_i_s_k_ _M_a_n_a_g_e_m_e_n_t_ _(_m_a_g_a_z_i_n_e_).
+Example of rriisskk mmaannaaggeemmeenntt: A NASA model showing areas at high risk from impact
+for the International Space Station.
+RRiisskk mmaannaaggeemmeenntt is the identification, assessment, and prioritization of _r_i_s_k_s
+(defined in _I_S_O_ _3_1_0_0_0 as the effect of uncertainty on objectives, whether
+positive or negative) followed by coordinated and economical application of
+resources to minimize, monitor, and control the probability and/or impact of
+unfortunate events_[_1_] or to maximize the realization of opportunities. Risks
+can come from uncertainty in financial markets, threats from project failures
+(at any phase in design, development, production, or sustainment life-cycles),
+legal liabilities, credit risk, accidents, _n_a_t_u_r_a_l_ _c_a_u_s_e_s_ _a_n_d_ _d_i_s_a_s_t_e_r_s as well
+as deliberate attack from an adversary, or events of uncertain or unpredictable
+_r_o_o_t_-_c_a_u_s_e. Several risk management _s_t_a_n_d_a_r_d_s have been developed including the
+_P_r_o_j_e_c_t_ _M_a_n_a_g_e_m_e_n_t_ _I_n_s_t_i_t_u_t_e, the _N_a_t_i_o_n_a_l_ _I_n_s_t_i_t_u_t_e_ _o_f_ _S_t_a_n_d_a_r_d_s_ _a_n_d
+_T_e_c_h_n_o_l_o_g_y, actuarial societies, and ISO standards._[_2_]_[_3_] Methods, definitions
+and goals vary widely according to whether the risk management method is in the
+context of project management, security, _e_n_g_i_n_e_e_r_i_n_g, industrial processes,
+financial portfolios, actuarial assessments, or public health and safety.
+The strategies to manage threats (uncertainties with negative consequences)
+typically include transferring the threat to another party, avoiding the
+threat, reducing the negative effect or probability of the threat, or even
+accepting some or all of the potential or actual consequences of a particular
+threat, and the opposites for opportunities (uncertain future states with
+benefits).
+Certain aspects of many of the risk management standards have come under
+criticism for having no measurable improvement on risk, whether the confidence
+in estimates and decisions seem to increase._[_1_]
+********** CCoonntteennttss **********
+    * _1_ _I_n_t_r_o_d_u_c_t_i_o_n
+          o _1_._1_ _M_e_t_h_o_d
+          o _1_._2_ _P_r_i_n_c_i_p_l_e_s_ _o_f_ _r_i_s_k_ _m_a_n_a_g_e_m_e_n_t
+    * _2_ _P_r_o_c_e_s_s
+          o _2_._1_ _E_s_t_a_b_l_i_s_h_i_n_g_ _t_h_e_ _c_o_n_t_e_x_t
+          o _2_._2_ _I_d_e_n_t_i_f_i_c_a_t_i_o_n
+          o _2_._3_ _A_s_s_e_s_s_m_e_n_t
+    * _3_ _C_o_m_p_o_s_i_t_e_ _R_i_s_k_ _I_n_d_e_x
+    * _4_ _R_i_s_k_ _O_p_t_i_o_n_s
+          o _4_._1_ _P_o_t_e_n_t_i_a_l_ _r_i_s_k_ _t_r_e_a_t_m_e_n_t_s
+                # _4_._1_._1_ _R_i_s_k_ _a_v_o_i_d_a_n_c_e
+                # _4_._1_._2_ _H_a_z_a_r_d_ _p_r_e_v_e_n_t_i_o_n
+                # _4_._1_._3_ _R_i_s_k_ _r_e_d_u_c_t_i_o_n
+                # _4_._1_._4_ _R_i_s_k_ _s_h_a_r_i_n_g
+                # _4_._1_._5_ _R_i_s_k_ _r_e_t_e_n_t_i_o_n
+          o _4_._2_ _C_r_e_a_t_e_ _a_ _r_i_s_k_ _m_a_n_a_g_e_m_e_n_t_ _p_l_a_n
+          o _4_._3_ _I_m_p_l_e_m_e_n_t_a_t_i_o_n
+          o _4_._4_ _R_e_v_i_e_w_ _a_n_d_ _e_v_a_l_u_a_t_i_o_n_ _o_f_ _t_h_e_ _p_l_a_n
+    * _5_ _L_i_m_i_t_a_t_i_o_n_s
+    * _6_ _A_r_e_a_s_ _o_f_ _r_i_s_k_ _m_a_n_a_g_e_m_e_n_t
+          o _6_._1_ _E_n_t_e_r_p_r_i_s_e_ _r_i_s_k_ _m_a_n_a_g_e_m_e_n_t
+          o _6_._2_ _R_i_s_k_ _m_a_n_a_g_e_m_e_n_t_ _a_c_t_i_v_i_t_i_e_s_ _a_s_ _a_p_p_l_i_e_d_ _t_o_ _p_r_o_j_e_c_t_ _m_a_n_a_g_e_m_e_n_t
+          o _6_._3_ _R_i_s_k_ _m_a_n_a_g_e_m_e_n_t_ _f_o_r_ _m_e_g_a_p_r_o_j_e_c_t_s
+          o _6_._4_ _R_i_s_k_ _m_a_n_a_g_e_m_e_n_t_ _r_e_g_a_r_d_i_n_g_ _n_a_t_u_r_a_l_ _d_i_s_a_s_t_e_r_s
+          o _6_._5_ _R_i_s_k_ _m_a_n_a_g_e_m_e_n_t_ _o_f_ _i_n_f_o_r_m_a_t_i_o_n_ _t_e_c_h_n_o_l_o_g_y
+          o _6_._6_ _R_i_s_k_ _m_a_n_a_g_e_m_e_n_t_ _t_e_c_h_n_i_q_u_e_s_ _i_n_ _p_e_t_r_o_l_e_u_m_ _a_n_d_ _n_a_t_u_r_a_l_ _g_a_s
+          o _6_._7_ _R_i_s_k_ _m_a_n_a_g_e_m_e_n_t_ _a_s_ _a_p_p_l_i_e_d_ _t_o_ _t_h_e_ _p_h_a_r_m_a_c_e_u_t_i_c_a_l_ _s_e_c_t_o_r
+    * _7_ _P_o_s_i_t_i_v_e_ _R_i_s_k_ _M_a_n_a_g_e_m_e_n_t
+          o _7_._1_ _C_r_i_t_i_c_i_s_m_s
+    * _8_ _R_i_s_k_ _m_a_n_a_g_e_m_e_n_t_ _a_n_d_ _b_u_s_i_n_e_s_s_ _c_o_n_t_i_n_u_i_t_y
+    * _9_ _R_i_s_k_ _c_o_m_m_u_n_i_c_a_t_i_o_n
+          o _9_._1_ _S_e_v_e_n_ _c_a_r_d_i_n_a_l_ _r_u_l_e_s_ _f_o_r_ _t_h_e_ _p_r_a_c_t_i_c_e_ _o_f_ _r_i_s_k_ _c_o_m_m_u_n_i_c_a_t_i_o_n
+    * _1_0_ _S_e_e_ _a_l_s_o
+    * _1_1_ _R_e_f_e_r_e_n_c_e_s
+    * _1_2_ _F_u_r_t_h_e_r_ _r_e_a_d_i_n_g
+********** IInnttrroodduuccttiioonn[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+A widely used vocabulary for risk management is defined by ISO Guide 73, "Risk
+management. Vocabulary."_[_2_]
+In ideal risk management, a prioritization process is followed whereby the
+risks with the greatest loss (or impact) and the greatest _p_r_o_b_a_b_i_l_i_t_y of
+occurring are handled first, and risks with lower probability of occurrence and
+lower loss are handled in descending order. In practice the process of
+assessing overall risk can be difficult, and balancing resources used to
+mitigate between risks with a high probability of occurrence but lower loss
+versus a risk with high loss but lower probability of occurrence can often be
+mishandled.
+      Intangible risk management identifies a new type of a risk that has a
+      100% probability of occurring but is ignored by the organization due to a
+      lack of identification ability. For example, when deficient knowledge is
+      applied to a situation, a _k_n_o_w_l_e_d_g_e risk materializes. Relationship risk
+      appears when ineffective collaboration occurs. Process-engagement risk
+      may be an issue when ineffective operational procedures are applied.
+      These risks directly reduce the productivity of knowledge workers,
+      decrease cost effectiveness, profitability, service, quality, reputation,
+      brand value, and earnings quality. Intangible risk management allows risk
+      management to create immediate value from the identification and
+      reduction of risks that reduce productivity.
+Risk management also faces difficulties in allocating resources. This is the
+idea of _o_p_p_o_r_t_u_n_i_t_y_ _c_o_s_t. Resources spent on risk management could have been
+spent on more profitable activities. Again, ideal risk management minimizes
+spending (or manpower or other resources) and also minimizes the negative
+effects of risks.
+******** MMeetthhoodd[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+For the most part, these methods consist of the following elements, performed,
+more or less, in the following order.
+   1. identify, characterize _t_h_r_e_a_t_s
+   2. assess the _v_u_l_n_e_r_a_b_i_l_i_t_y of critical assets to specific threats
+   3. determine the _r_i_s_k (i.e. the expected likelihood and consequences of
+      specific types of attacks on specific assets)
+   4. identify ways to reduce those risks
+   5. _p_r_i_o_r_i_t_i_z_e risk reduction measures based on a strategy
+******** PPrriinncciipplleess ooff rriisskk mmaannaaggeemmeenntt[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+The _I_n_t_e_r_n_a_t_i_o_n_a_l_ _O_r_g_a_n_i_z_a_t_i_o_n_ _f_o_r_ _S_t_a_n_d_a_r_d_i_z_a_t_i_o_n (ISO) identifies the
+following principles of risk management:_[_4_]
+Risk management should:
+    * create _v_a_l_u_e ‚Äì resources expended to mitigate risk should be less than
+      the consequence of inaction, or (as in _v_a_l_u_e_ _e_n_g_i_n_e_e_r_i_n_g), the gain
+      should exceed the pain
+    * be an integral part of organizational processes
+    * be part of decision making process
+    * explicitly address uncertainty and assumptions
+    * be systematic and structured
+    * be based on the best available information
+    * be tailorable
+    * take human factors into account
+    * be transparent and inclusive
+    * be dynamic, iterative and responsive to change
+    * be capable of continual improvement and enhancement
+    * be continually or periodically re-assessed
+********** PPrroocceessss[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+According to the standard _I_S_O_ _3_1_0_0_0 "Risk management ‚Äì Principles and
+guidelines on implementation,"_[_3_] the process of risk management consists of
+several steps as follows:
+******** EEssttaabblliisshhiinngg tthhee ccoonntteexxtt[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+This involves:
+   1. identification of risk in a selected domain of interest
+   2. planning the remainder of the process
+   3. mapping out the following:
+          o the social scope of risk management
+          o the identity and objectives of _s_t_a_k_e_h_o_l_d_e_r_s
+          o the basis upon which risks will be evaluated, constraints.
+   4. defining a framework for the activity and an agenda for identification
+   5. developing an analysis of risks involved in the process
+   6. mitigation or solution of risks using available technological, human and
+      organizational resources.
+******** IIddeennttiiffiiccaattiioonn[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+After establishing the context, the next step in the process of managing risk
+is to identify potential risks. Risks are about events that, when triggered,
+cause problems or benefits. Hence, risk identification can start with the
+source of our problems and those of our competitors (benefit), or with the
+problem itself.
+    * Source analysis[_c_i_t_a_t_i_o_n_ _n_e_e_d_e_d] - Risk sources may be internal or
+      external to the system that is the target of risk management (use
+      mitigation instead of management since by its own definition risk deals
+      with factors of decision-making that cannot be managed).
+Examples of risk sources are: stakeholders of a project, employees of a company
+or the weather over an airport.
+    * Problem analysis[_c_i_t_a_t_i_o_n_ _n_e_e_d_e_d] - Risks are related to identified
+      threats. For example: the threat of losing money, the threat of abuse of
+      confidential information or the threat of human errors, accidents and
+      casualties. The threats may exist with various entities, most important
+      with shareholders, customers and legislative bodies such as the
+      government.
+When either source or problem is known, the events that a source may trigger or
+the events that can lead to a problem can be investigated. For example:
+stakeholders withdrawing during a project may endanger funding of the project;
+confidential information may be stolen by employees even within a closed
+network; lightning striking an aircraft during takeoff may make all people on
+board immediate casualties.
+The chosen method of identifying risks may depend on culture, industry practice
+and compliance. The identification methods are formed by templates or the
+development of templates for identifying source, problem or event. Common risk
+identification methods are:
+    * Objectives-based risk identification[_c_i_t_a_t_i_o_n_ _n_e_e_d_e_d] - Organizations and
+      project teams have objectives. Any event that may endanger achieving an
+      objective partly or completely is identified as risk.
+    * Scenario-based risk identification - In _s_c_e_n_a_r_i_o_ _a_n_a_l_y_s_i_s different
+      scenarios are created. The scenarios may be the alternative ways to
+      achieve an objective, or an analysis of the interaction of forces in, for
+      example, a market or battle. Any event that triggers an undesired
+      scenario alternative is identified as risk ‚Äì see _F_u_t_u_r_e_s_ _S_t_u_d_i_e_s for
+      methodology used by _F_u_t_u_r_i_s_t_s.
+    * Taxonomy-based risk identification - The taxonomy in taxonomy-based risk
+      identification is a breakdown of possible risk sources. Based on the
+      taxonomy and knowledge of best practices, a questionnaire is compiled.
+      The answers to the questions reveal risks._[_5_]
+    * Common-risk checking[_c_i_t_a_t_i_o_n_ _n_e_e_d_e_d] - In several industries, lists with
+      known risks are available. Each risk in the list can be checked for
+      application to a particular situation._[_6_]
+    * Risk charting _[_7_] - This method combines the above approaches by listing
+      resources at risk, threats to those resources, modifying factors which
+      may increase or decrease the risk and consequences it is wished to avoid.
+      Creating a _m_a_t_r_i_x under these headings enables a variety of approaches.
+      One can begin with resources and consider the threats they are exposed to
+      and the consequences of each. Alternatively one can start with the
+      threats and examine which resources they would affect, or one can begin
+      with the consequences and determine which combination of threats and
+      resources would be involved to bring them about.
+******** AAsssseessssmmeenntt[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+Main article: _r_i_s_k_ _a_s_s_e_s_s_m_e_n_t
+Once risks have been identified, they must then be assessed as to their
+potential severity of impact (generally a negative impact, such as damage or
+loss) and to the probability of occurrence. These quantities can be either
+simple to measure, in the case of the value of a lost building, or impossible
+to know for sure in the case of the probability of an unlikely event occurring.
+Therefore, in the assessment process it is critical to make the best educated
+decisions in order to properly prioritize the implementation of the _r_i_s_k
+_m_a_n_a_g_e_m_e_n_t_ _p_l_a_n.
+Even a short-term positive improvement can have long-term negative impacts.
+Take the "turnpike" example. A highway is widened to allow more traffic. More
+traffic capacity leads to greater development in the areas surrounding the
+improved traffic capacity. Over time, traffic thereby increases to fill
+available capacity. Turnpikes thereby need to be expanded in a seemingly
+endless cycles. There are many other engineering examples where expanded
+capacity (to do any function) is soon filled by increased demand. Since
+expansion comes at a cost, the resulting growth could become unsustainable
+without forecasting and management.
+The fundamental difficulty in risk assessment is determining the rate of
+occurrence since statistical information is not available on all kinds of past
+incidents. Furthermore, evaluating the severity of the consequences (impact) is
+often quite difficult for intangible assets. Asset valuation is another
+question that needs to be addressed. Thus, best educated opinions and available
+statistics are the primary sources of information. Nevertheless, risk
+assessment should produce such information for the management of the
+organization that the primary risks are easy to understand and that the risk
+management decisions may be prioritized. Thus, there have been several theories
+and attempts to quantify risks. Numerous different risk formulae exist, but
+perhaps the most widely accepted formula for risk quantification is:
+      Rate (or probability) of occurrence multiplied by the impact of the event
+      equals risk magnitude
+********** CCoommppoossiittee RRiisskk IInnddeexx[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+The above formula can also be re-written in terms of a Composite Risk Index, as
+follows:
+CCoommppoossiittee RRiisskk IInnddeexx == IImmppaacctt ooff RRiisskk eevveenntt xx PPrroobbaabbiilliittyy ooff OOccccuurrrreennccee
+The impact of the risk event is commonly assessed on a scale of 1 to 5, where 1
+and 5 represent the minimum and maximum possible impact of an occurrence of a
+risk (usually in terms of financial losses). However, the 1 to 5 scale can be
+arbitrary and need not be on a linear scale.
+The probability of occurrence is likewise commonly assessed on a scale from 1
+to 5, where 1 represents a very low probability of the risk event actually
+occurring while 5 represents a very high probability of occurrence. This axis
+may be expressed in either mathematical terms (event occurs once a year, once
+in ten years, once in 100 years etc.) or may be expressed in "plain english"
+(event has occurred here very often; event has been known to occur here; event
+has been known to occur in the industry etc.). Again, the 1 to 5 scale can be
+arbitrary or non-linear depending on decisions by subject-matter experts.
+The Composite Index thus can take values ranging (typically) from 1 through 25,
+and this range is usually arbitrarily divided into three sub-ranges. The
+overall risk assessment is then Low, Medium or High, depending on the sub-range
+containing the calculated value of the Composite Index. For instance, the three
+sub-ranges could be defined as 1 to 8, 9 to 16 and 17 to 25.
+Note that the probability of risk occurrence is difficult to estimate, since
+the past data on frequencies are not readily available, as mentioned above.
+After all, probability does not imply certainty.
+Likewise, the impact of the risk is not easy to estimate since it is often
+difficult to estimate the potential loss in the event of risk occurrence.
+Further, both the above factors can change in magnitude depending on the
+adequacy of risk avoidance and prevention measures taken and due to changes in
+the external business environment. Hence it is absolutely necessary to
+periodically re-assess risks and intensify/relax mitigation measures, or as
+necessary. Changes in procedures, technology, schedules, budgets, market
+conditions, political environment, or other factors typically require re-
+assessment of risks.
+********** RRiisskk OOppttiioonnss[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+Risk mitigation measures are usually formulated according to one or more of the
+following major risk options, which are:
+   1. Design a new business process with adequate built-in risk control and
+      containment measures from the start.
+   2. Periodically re-assess risks that are accepted in ongoing processes as a
+      normal feature of business operations and modify mitigation measures.
+   3. Transfer risks to an external agency (e.g. an insurance company)
+   4. Avoid risks altogether (e.g. by closing down a particular high-risk
+      business area)
+Later research[_c_i_t_a_t_i_o_n_ _n_e_e_d_e_d] has shown that the financial benefits of risk
+management are less dependent on the formula used but are more dependent on the
+frequency and how risk assessment is performed.
+In business it is imperative to be able to present the findings of risk
+assessments in financial, market, or schedule terms. Robert Courtney Jr. (IBM,
+1970) proposed a formula for presenting risks in financial terms. The Courtney
+formula was accepted as the official risk analysis method for the US
+governmental agencies. The formula proposes calculation of ALE (annualised loss
+expectancy) and compares the expected loss value to the security control
+implementation costs (_c_o_s_t_-_b_e_n_e_f_i_t_ _a_n_a_l_y_s_i_s).
+******** PPootteennttiiaall rriisskk ttrreeaattmmeennttss[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+Once risks have been identified and assessed, all techniques to manage the risk
+fall into one or more of these four major categories:_[_8_]
+    * Avoidance (eliminate, withdraw from or not become involved)
+    * Reduction (optimize ‚Äì mitigate)
+    * Sharing (transfer ‚Äì outsource or insure)
+    * Retention (accept and budget)
+Ideal use of these strategies may not be possible. Some of them may involve
+trade-offs that are not acceptable to the organization or person making the
+risk management decisions. Another source, from the US Department of Defense
+(see link), _D_e_f_e_n_s_e_ _A_c_q_u_i_s_i_t_i_o_n_ _U_n_i_v_e_r_s_i_t_y, calls these categories ACAT, for
+Avoid, Control, Accept, or Transfer. This use of the ACAT acronym is
+reminiscent of another ACAT (for Acquisition Category) used in US Defense
+industry procurements, in which Risk Management figures prominently in decision
+making and planning.
+****** RRiisskk aavvooiiddaannccee[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ******
+This includes not performing an activity that could carry risk. An example
+would be not buying a _p_r_o_p_e_r_t_y or business in order to not take on the _l_e_g_a_l
+_l_i_a_b_i_l_i_t_y that comes with it. Another would be not flying in order not to take
+the risk that the _a_i_r_p_l_a_n_e were to be _h_i_j_a_c_k_e_d. Avoidance may seem the answer
+to all risks, but avoiding risks also means losing out on the potential gain
+that accepting (retaining) the risk may have allowed. Not entering a business
+to avoid the risk of loss also avoids the possibility of earning profits.
+Increasing risk regulation in hospitals has led to avoidance of treating higher
+risk conditions, in favour of patients presenting with lower risk._[_9_]
+****** HHaazzaarrdd pprreevveennttiioonn[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ******
+Main article: _H_a_z_a_r_d_ _p_r_e_v_e_n_t_i_o_n
+_H_a_z_a_r_d prevention refers to the prevention of risks in an emergency. The first
+and most effective stage of hazard prevention is the elimination of hazards. If
+this takes too long, is too costly, or is otherwise impractical, the second
+stage is _m_i_t_i_g_a_t_i_o_n.
+****** RRiisskk rreedduuccttiioonn[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ******
+Risk reduction or "optimization" involves reducing the severity of the loss or
+the likelihood of the loss from occurring. For example, _s_p_r_i_n_k_l_e_r_s are designed
+to put out a _f_i_r_e to reduce the risk of loss by fire. This method may cause a
+greater loss by water damage and therefore may not be suitable. _H_a_l_o_n fire
+suppression systems may mitigate that risk, but the cost may be prohibitive as
+a _s_t_r_a_t_e_g_y.
+Acknowledging that risks can be positive or negative, optimizing risks means
+finding a balance between negative risk and the benefit of the operation or
+activity; and between risk reduction and effort applied. By an offshore
+drilling contractor effectively applying HSE Management in its organization, it
+can optimize risk to achieve levels of residual risk that are tolerable._[_1_0_]
+Modern software development methodologies reduce risk by developing and
+delivering software incrementally. Early methodologies suffered from the fact
+that they only delivered software in the final phase of development; any
+problems encountered in earlier phases meant costly rework and often
+jeopardized the whole project. By developing in iterations, software projects
+can limit effort wasted to a single iteration.
+_O_u_t_s_o_u_r_c_i_n_g could be an example of risk reduction if the outsourcer can
+demonstrate higher capability at managing or reducing risks._[_1_1_] For example, a
+company may outsource only its software development, the manufacturing of hard
+goods, or customer support needs to another company, while handling the
+business management itself. This way, the company can concentrate more on
+business development without having to worry as much about the manufacturing
+process, managing the development team, or finding a physical location for a
+call center.
+****** RRiisskk sshhaarriinngg[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ******
+Briefly defined as "sharing with another party the burden of loss or the
+benefit of gain, from a risk, and the measures to reduce a risk."
+The term of 'risk transfer' is often used in place of risk sharing in the
+mistaken belief that you can transfer a risk to a third party through insurance
+or outsourcing. In practice if the insurance company or contractor go bankrupt
+or end up in court, the original risk is likely to still revert to the first
+party. As such in the terminology of practitioners and scholars alike, the
+purchase of an insurance contract is often described as a "transfer of risk."
+However, technically speaking, the buyer of the contract generally retains
+_l_e_g_a_l_ _r_e_s_p_o_n_s_i_b_i_l_i_t_y for the losses "transferred", meaning that insurance may
+be described more accurately as a post-event compensatory mechanism. For
+example, a personal injuries insurance policy does not transfer the risk of a
+car accident to the insurance company. The risk still lies with the policy
+holder namely the person who has been in the accident. The insurance policy
+simply provides that if an accident (the event) occurs involving the policy
+holder then some compensation may be payable to the policy holder that is
+commensurate to the suffering/damage.
+Some ways of managing risk fall into multiple categories. Risk retention pools
+are technically retaining the risk for the group, but spreading it over the
+whole group involves transfer among individual members of the group. This is
+different from traditional _i_n_s_u_r_a_n_c_e, in that no premium is exchanged between
+members of the group up front, but instead losses are assessed to all members
+of the group.
+****** RRiisskk rreetteennttiioonn[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ******
+Involves accepting the loss, or benefit of gain, from a risk when it occurs.
+True _s_e_l_f_ _i_n_s_u_r_a_n_c_e falls in this category. Risk retention is a viable strategy
+for small risks where the cost of insuring against the risk would be greater
+over time than the total losses sustained. All risks that are not avoided or
+transferred are retained by default. This includes risks that are so large or
+catastrophic that they either cannot be insured against or the premiums would
+be infeasible. _W_a_r is an example since most property and risks are not insured
+against war, so the loss attributed by war is retained by the insured. Also any
+amounts of potential loss (risk) over the amount insured is retained risk. This
+may also be acceptable if the chance of a very large loss is small or if the
+cost to insure for greater coverage amounts is so great it would hinder the
+goals of the organization too much.
+******** CCrreeaattee aa rriisskk mmaannaaggeemmeenntt ppllaann[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+Main article: _R_i_s_k_ _m_a_n_a_g_e_m_e_n_t_ _p_l_a_n
+Select appropriate controls or countermeasures to measure each risk. Risk
+mitigation needs to be approved by the appropriate level of management. For
+instance, a risk concerning the image of the organization should have top
+management decision behind it whereas IT management would have the authority to
+decide on computer virus risks.
+The risk management plan should propose applicable and effective security
+controls for managing the risks. For example, an observed high risk of computer
+viruses could be mitigated by acquiring and implementing antivirus software. A
+good risk management plan should contain a schedule for control implementation
+and responsible persons for those actions.
+According to _I_S_O_/_I_E_C_ _2_7_0_0_1, the stage immediately after completion of the _r_i_s_k
+_a_s_s_e_s_s_m_e_n_t phase consists of preparing a Risk Treatment Plan, which should
+document the decisions about how each of the identified risks should be
+handled. Mitigation of risks often means selection of _s_e_c_u_r_i_t_y_ _c_o_n_t_r_o_l_s, which
+should be documented in a Statement of Applicability, which identifies which
+particular control objectives and controls from the standard have been
+selected, and why.
+******** IImmpplleemmeennttaattiioonn[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+Implementation follows all of the planned methods for mitigating the effect of
+the risks. Purchase insurance policies for the risks that have been decided to
+be transferred to an insurer, avoid all risks that can be avoided without
+sacrificing the entity's goals, reduce others, and retain the rest.
+******** RReevviieeww aanndd eevvaalluuaattiioonn ooff tthhee ppllaann[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+Initial risk management plans will never be perfect. Practice, experience, and
+actual loss results will necessitate changes in the plan and contribute
+information to allow possible different decisions to be made in dealing with
+the risks being faced.
+_R_i_s_k_ _a_n_a_l_y_s_i_s results and management plans should be updated periodically.
+There are two primary reasons for this:
+   1. to evaluate whether the previously selected security controls are still
+      applicable and effective
+   2. to evaluate the possible risk level changes in the business environment.
+      For example, information risks are a good example of rapidly changing
+      business environment.
+********** LLiimmiittaattiioonnss[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+Prioritizing the risk management processes too highly could keep an
+organization from ever completing a project or even getting started. This is
+especially true if other work is suspended until the risk management process is
+considered complete.
+It is also important to keep in mind the distinction between risk and
+_u_n_c_e_r_t_a_i_n_t_y. Risk can be measured by impacts x probability.
+If risks are improperly assessed and prioritized, time can be wasted in dealing
+with risk of losses that are not likely to occur. Spending too much time
+assessing and managing unlikely risks can divert resources that could be used
+more profitably. Unlikely events do occur but if the risk is unlikely enough to
+occur it may be better to simply retain the risk and deal with the result if
+the loss does in fact occur. Qualitative risk assessment is subjective and
+lacks consistency. The primary justification for a formal risk assessment
+process is legal and bureaucratic.
+********** AArreeaass ooff rriisskk mmaannaaggeemmeenntt[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+As applied to _c_o_r_p_o_r_a_t_e_ _f_i_n_a_n_c_e, risk management is the technique for
+measuring, monitoring and controlling the financial or _o_p_e_r_a_t_i_o_n_a_l_ _r_i_s_k on a
+firm's _b_a_l_a_n_c_e_ _s_h_e_e_t. See _v_a_l_u_e_ _a_t_ _r_i_s_k.
+The _B_a_s_e_l_ _I_I framework breaks risks into _m_a_r_k_e_t_ _r_i_s_k (price risk), _c_r_e_d_i_t_ _r_i_s_k
+and operational risk and also specifies methods for calculating _c_a_p_i_t_a_l
+_r_e_q_u_i_r_e_m_e_n_t_s for each of these components.
+******** EEnntteerrpprriissee rriisskk mmaannaaggeemmeenntt[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+Main article: _E_n_t_e_r_p_r_i_s_e_ _R_i_s_k_ _M_a_n_a_g_e_m_e_n_t
+In enterprise risk management, a risk is defined as a possible event or
+circumstance that can have negative influences on the enterprise in question.
+Its impact can be on the very existence, the resources (human and capital), the
+products and services, or the customers of the enterprise, as well as external
+impacts on society, markets, or the environment. In a financial institution,
+enterprise risk management is normally thought of as the combination of credit
+risk, _i_n_t_e_r_e_s_t_ _r_a_t_e_ _r_i_s_k or _a_s_s_e_t_ _l_i_a_b_i_l_i_t_y_ _m_a_n_a_g_e_m_e_n_t, liquidity risk, market
+risk, and operational risk.
+In the more general case, every probable risk can have a pre-formulated plan to
+deal with its possible consequences (to ensure contingency if the risk becomes
+a liability).
+From the information above and the average cost per employee over time, or _c_o_s_t
+_a_c_c_r_u_a_l_ _r_a_t_i_o, a project manager can estimate:
+    * the cost associated with the risk if it arises, estimated by multiplying
+      employee costs per unit time by the estimated time lost (cost impact, C
+      where C = cost accrual ratio * S).
+    * the probable increase in time associated with a risk (schedule variance
+      due to risk, Rs where Rs = P * S):
+          o Sorting on this value puts the highest risks to the schedule first.
+            This is intended to cause the greatest risks to the project to be
+            attempted first so that risk is minimized as quickly as possible.
+          o This is slightly misleading as schedule variances with a large P
+            and small S and vice versa are not equivalent. (The risk of the _R_M_S
+            _T_i_t_a_n_i_c sinking vs. the passengers' meals being served at slightly
+            the wrong time).
+    * the probable increase in cost associated with a risk (cost variance due
+      to risk, Rc where Rc = P*C = P*CAR*S = P*S*CAR)
+          o sorting on this value puts the highest risks to the budget first.
+          o see concerns about schedule variance as this is a function of it,
+            as illustrated in the equation above.
+Risk in a _p_r_o_j_e_c_t or _p_r_o_c_e_s_s can be due either to _S_p_e_c_i_a_l_ _C_a_u_s_e_ _V_a_r_i_a_t_i_o_n or
+_C_o_m_m_o_n_ _C_a_u_s_e_ _V_a_r_i_a_t_i_o_n and requires appropriate treatment. That is to re-
+iterate the concern about extremal cases not being equivalent in the list
+immediately above.
+******** RRiisskk mmaannaaggeemmeenntt aaccttiivviittiieess aass aapppplliieedd ttoo pprroojjeecctt mmaannaaggeemmeenntt[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ ||
+_ee_dd_ii_tt]] ********
+In _p_r_o_j_e_c_t_ _m_a_n_a_g_e_m_e_n_t, risk management includes the following activities:
+    * Planning how risk will be managed in the particular project. Plans should
+      include risk management tasks, responsibilities, activities and budget.
+    * Assigning a risk officer ‚Äì a team member other than a project manager
+      who is responsible for foreseeing potential project problems. Typical
+      characteristic of risk officer is a healthy skepticism.
+    * Maintaining live project risk database. Each risk should have the
+      following attributes: opening date, title, short description, probability
+      and importance. Optionally a risk may have an assigned person responsible
+      for its resolution and a date by which the risk must be resolved.
+    * Creating anonymous risk reporting channel. Each team member should have
+      the possibility to report risks that he/she foresees in the project.
+    * Preparing mitigation plans for risks that are chosen to be mitigated. The
+      purpose of the mitigation plan is to describe how this particular risk
+      will be handled ‚Äì what, when, by whom and how will it be done to avoid
+      it or minimize consequences if it becomes a liability.
+    * Summarizing planned and faced risks, effectiveness of mitigation
+      activities, and effort spent for the risk management.
+******** RRiisskk mmaannaaggeemmeenntt ffoorr mmeeggaapprroojjeeccttss[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+_M_e_g_a_p_r_o_j_e_c_t_s (sometimes also called "major programs") are extremely large-scale
+investment projects, typically costing more than US$1 billion per project.
+Megaprojects include bridges, tunnels, highways, railways, airports, seaports,
+power plants, dams, wastewater projects, coastal flood protection schemes, oil
+and natural gas extraction projects, public buildings, information technology
+systems, aerospace projects, and defence systems. Megaprojects have been shown
+to be particularly risky in terms of finance, safety, and social and
+environmental impacts. Risk management is therefore particularly pertinent for
+megaprojects and special methods and special education have been developed for
+such risk management._[_1_2_]
+******** RRiisskk mmaannaaggeemmeenntt rreeggaarrddiinngg nnaattuurraall ddiissaasstteerrss[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+It is important to assess risk in regard to natural disasters like _f_l_o_o_d_s,
+_e_a_r_t_h_q_u_a_k_e_s, and so on. Outcomes of natural disaster risk assessment are
+valuable when considering future repair costs, business interruption losses and
+other downtime, effects on the environment, insurance costs, and the proposed
+costs of reducing the risk._[_1_3_] There are regular _c_o_n_f_e_r_e_n_c_e_s_ _i_n_ _D_a_v_o_s to deal
+with integral risk management.
+******** RRiisskk mmaannaaggeemmeenntt ooff iinnffoorrmmaattiioonn tteecchhnnoollooggyy[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+Main article: _I_T_ _r_i_s_k_ _m_a_n_a_g_e_m_e_n_t
+_I_n_f_o_r_m_a_t_i_o_n_ _t_e_c_h_n_o_l_o_g_y is increasingly pervasive in modern life in every
+sector._[_1_4_]_[_1_5_]_[_1_6_]
+_I_T_ _r_i_s_k is a risk related to information technology. This is a relatively new
+term due to an increasing awareness that _i_n_f_o_r_m_a_t_i_o_n_ _s_e_c_u_r_i_t_y is simply one
+facet of a multitude of risks that are relevant to IT and the real world
+processes it supports.
+A number of _m_e_t_h_o_d_o_l_o_g_i_e_s have been developed to deal with this kind of risk.
+_I_S_A_C_A's _R_i_s_k_ _I_T framework ties IT risk to _e_n_t_e_r_p_r_i_s_e_ _r_i_s_k_ _m_a_n_a_g_e_m_e_n_t.
+******** RRiisskk mmaannaaggeemmeenntt tteecchhnniiqquueess iinn ppeettrroolleeuumm aanndd nnaattuurraall ggaass[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ ||
+_ee_dd_ii_tt]] ********
+For the offshore oil and gas industry, operational risk management is regulated
+by the _s_a_f_e_t_y_ _c_a_s_e regime in many countries. Hazard identification and risk
+assessment tools and techniques are described in the international standard ISO
+17776:2000, and organisations such as the IADC (International Association of
+Drilling Contractors) publish guidelines for HSE Case development which are
+based on the ISO standard. Further, diagrammatic representations of hazardous
+events are often expected by governmental regulators as part of risk management
+in safety case submissions; these are known as bbooww--ttiiee diagrams. The technique
+is also used by organisations and regulators in mining, aviation, health,
+defence, industrial and finance._[_1_7_]
+******** RRiisskk mmaannaaggeemmeenntt aass aapppplliieedd ttoo tthhee pphhaarrmmaacceeuuttiiccaall sseeccttoorr[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ ||
+_ee_dd_ii_tt]] ********
+The principles and tools for quality risk management are increasingly being
+applied to different aspects of pharmaceutical quality systems. These aspects
+include development, manufacturing, distribution, inspection, and submission/
+review processes throughout the lifecycle of drug substances, drug products,
+biological and biotechnological products (including the use of raw materials,
+solvents, excipients, packaging and labeling materials in drug products,
+biological and biotechnological products). Risk management is also applied to
+the assessment of _m_i_c_r_o_b_i_o_l_o_g_i_c_a_l_ _c_o_n_t_a_m_i_n_a_t_i_o_n in relation to pharmaceutical
+products and cleanroom manufacturing environments._[_1_8_]
+********** PPoossiittiivvee RRiisskk MMaannaaggeemmeenntt[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+Positive Risk Management is an approach that recognizes the importance of the
+human factor and of individual differences in propensity for risk taking. It
+draws from the work of a number of academics and professionals who have
+expressed concerns about scientific rigor of the wider risk management debate,
+_[_1_9_] or who have made a contribution emphasizing the human dimension of risk.
+_[_2_0_]_[_2_1_]
+Firstly, it recognizes that any object or situation can be rendered hazardous
+by the involvement of someone with an inappropriate disposition towards risk;
+whether too risk taking or too risk averse.
+Secondly, it recognizes that risk is an inevitable and ever present element
+throughout life: from conception through to the point at the end of life when
+we finally lose our personal battle with life threatening risk.
+Thirdly, it recognizes that every individual has a particular orientation
+towards risk; while at one extreme people may by nature be timid, anxious and
+fearful, others will be adventurous, impulsive and almost oblivious to danger.
+These differences are evident in the way we drive our cars, in our diets, in
+our relationships, in our careers.
+Finally, Positive Risk Management recognizes that risk taking is essential to
+all enterprise, creativity, heroism, education, scientific advance ‚Äì in fact
+to any activity and all the initiatives that have contributed to our
+evolutionary success and civilization. It is worth noting how many enjoyable
+activities involve fear and willingly embrace risk taking.
+Within the entire Risk Management literature (and this section of Wikipedia)
+you will find little or no reference to the human part of the risk equation
+other than what might be implied by the term 'compliant'. This illustrates the
+narrow focus that is a hall mark of much current risk management practice. This
+situation arises from the basic premises of traditional risk management and the
+practices associated with health and safety within the working environment.
+There is a basic logic to the idea that any accident must reflect some kind of
+oversight or situational predisposition that, if identified, can be rectified.
+But, largely due to an almost institutionalised neglect of the human factor,
+this situationally focused paradigm has grown tendrils that reach into every
+corner of modern life and into situations where the unintended negative
+consequences threaten to outweigh the benefits.
+Positive Risk Management views both risk taking and risk aversion as
+complementary and of equal value and importance within the appropriate context.
+As such, it is seen as complementary to the traditional risk management
+paradigm. It introduces a much needed balance to risk management practices and
+puts greater onus on management skills and decision making. It is the dynamic
+approach of the football manager who appreciates the offensive and defensive
+talents within the available pool of players. Every organisation has roles
+better suited to risk takers and roles better suited to the risk averse. The
+task of management is to ensure that the right people are placed in each job.
+Positive Risk Management relies on the ability to identify individual
+differences in propensity for risk taking. The science in this area has been
+developing rapidly over the past decade within the domain of personality
+assessment. Once an area of almost tribal allegiance to different schools of
+thought, today there is wide spread consensus about the structure of
+personality assessment and its status within the framework of the cross
+disciplinary progress being made in our understanding of Human Nature. The Five
+Factor Model (FFM)_[_2_2_] of personality has been shown to have relevance across
+many different cultures, to remain consistent over adult working life and to be
+significantly heritable. Within this framework there are many strands which
+have a clear relationship to risk tolerance and risk taking. For example,
+Eysenck (1973) reports that personality influences whether we focus on what
+might go wrong or on potential benefits;_[_2_3_] Nicholson et al. (2005) report
+that higher extroversion is related to greater risk tolerance;_[_2_4_] McCrae and
+Costa (1997) link personality to tolerance of uncertainty, innovation and
+willingness to think outside the box;_[_2_5_] Kowert, 1997) links personality to
+adventurousness, imagination, the search for new experiences and actively
+seeking out risk._[_2_6_] Building from these foundations of well validated
+assessment practices, more specialized assessments have been developed,
+including assessment of Risk Type._[_2_7_]
+******** CCrriittiicciissmmss[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] ********
+However, researchers at the _U_n_i_v_e_r_s_i_t_y_ _o_f_ _O_x_f_o_r_d and _K_i_n_g_'_s_ _C_o_l_l_e_g_e_ _L_o_n_d_o_n
+found that the notion of complementarity may be a concept that does not work in
+practice. In a four-year organizational study of risk management in a leading
+healthcare organization, _F_i_s_c_h_e_r_ _&_ _F_e_r_l_i_e ( 2013) found major contradictions
+between rules-based risk management required by managers, and ethics-based
+self-regulation favoured by staff and clients. This produced tensions that led
+neither to complementarity nor to hybrid forms, but produced instead a heated
+and intractable conflict which escalated, resulting in crisis and
+organizational collapse._[_2_8_]
+The graveyard of former greats is littered with examples where the balance of
+risk went seriously awry; the ENRON and RBS stories have become iconic
+references in the pantheon of corporate governance and corporate mortality.
+Eastman Kodak might be a nominee for the opposite pole ‚Äì the corporately risk
+averse.
+********** RRiisskk mmaannaaggeemmeenntt aanndd bbuussiinneessss ccoonnttiinnuuiittyy[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+Risk management is simply a practice of systematically selecting cost effective
+approaches for minimising the effect of threat realization to the organization.
+All risks can never be fully avoided or mitigated simply because of financial
+and practical limitations. Therefore all organizations have to accept some
+level of residual risks.
+Whereas risk management tends to be preemptive, _b_u_s_i_n_e_s_s_ _c_o_n_t_i_n_u_i_t_y_ _p_l_a_n_n_i_n_g
+(BCP) was invented to deal with the consequences of realised residual risks.
+The necessity to have BCP in place arises because even very unlikely events
+will occur if given enough time. Risk management and BCP are often mistakenly
+seen as rivals or overlapping practices. In fact these processes are so tightly
+tied together that such separation seems artificial. For example, the risk
+management process creates important inputs for the BCP (assets, impact
+assessments, cost estimates etc.). Risk management also proposes applicable
+controls for the observed risks. Therefore, risk management covers several
+areas that are vital for the BCP process. However, the BCP process goes beyond
+risk management's preemptive approach and assumes that the disaster wwiillll happen
+at some point.
+********** RRiisskk ccoommmmuunniiccaattiioonn[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+Risk communication is a complex cross-disciplinary academic field. Problems for
+risk communicators involve how to reach the intended audience, to make the risk
+comprehensible and relatable to other risks, how to pay appropriate respect to
+the audience's values related to the risk, how to predict the audience's
+response to the communication, etc. A main goal of risk communication is to
+improve collective and individual decision making. Risk communication is
+somewhat related to _c_r_i_s_i_s_ _c_o_m_m_u_n_i_c_a_t_i_o_n.
+******** SSeevveenn ccaarrddiinnaall rruulleess ffoorr tthhee pprraaccttiiccee ooff rriisskk ccoommmmuunniiccaattiioonn[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ ||
+_ee_dd_ii_tt]] ********
+(as expressed by the _U_._S_._ _E_n_v_i_r_o_n_m_e_n_t_a_l_ _P_r_o_t_e_c_t_i_o_n_ _A_g_e_n_c_y and several of the
+field's founders_[_2_9_])
+    * Accept and involve the public/other consumers as legitimate partners
+      (e.g. stakeholders).
+    * Plan carefully and evaluate your efforts with a focus on your strengths,
+      weaknesses, opportunities, and threats (SWOT).
+    * Listen to the stakeholders specific concerns.
+    * Be honest, frank, and open.
+    * Coordinate and collaborate with other credible sources.
+    * Meet the needs of the media.
+    * Speak clearly and with compassion.
+********** SSeeee aallssoo[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+    * _A_i_r_m_i_c
+    * _C_h_i_e_f_ _r_i_s_k_ _o_f_f_i_c_e_r
+    * _E_n_v_i_r_o_n_m_e_n_t_a_l_ _R_i_s_k_ _M_a_n_a_g_e_m_e_n_t_ _A_u_t_h_o_r_i_t_y
+    * _E_v_e_n_t_ _c_h_a_i_n_ _m_e_t_h_o_d_o_l_o_g_y
+    * _F_i_n_a_n_c_i_a_l_ _r_i_s_k_ _m_a_n_a_g_e_m_e_n_t
+    * _F_u_e_l_ _p_r_i_c_e_ _r_i_s_k_ _m_a_n_a_g_e_m_e_n_t
+    * _G_l_o_b_a_l_ _A_s_s_o_c_i_a_t_i_o_n_ _o_f_ _R_i_s_k_ _P_r_o_f_e_s_s_i_o_n_a_l_s
+    * _H_a_z_a_r_d_ _a_n_d_ _o_p_e_r_a_b_i_l_i_t_y_ _s_t_u_d_y
+    * _I_n_t_e_r_n_a_t_i_o_n_a_l_ _R_i_s_k_ _G_o_v_e_r_n_a_n_c_e_ _C_o_u_n_c_i_l
+    * _I_n_t_e_r_n_a_t_i_o_n_a_l_ _S_w_a_p_s_ _a_n_d_ _D_e_r_i_v_a_t_i_v_e_s_ _A_s_s_o_c_i_a_t_i_o_n
+    * _I_S_O_ _3_1_0_0_0
+    * _L_i_s_t_ _o_f_ _f_i_n_a_n_c_e_ _t_o_p_i_c_s
+    * _L_i_s_t_ _o_f_ _p_r_o_j_e_c_t_ _m_a_n_a_g_e_m_e_n_t_ _t_o_p_i_c_s
+    * _L_o_s_s_-_c_o_n_t_r_o_l_ _c_o_n_s_u_l_t_a_n_t
+    * _M_a_n_a_g_e_r_i_a_l_ _r_i_s_k_ _a_c_c_o_u_n_t_i_n_g
+    * _O_p_e_r_a_t_i_o_n_a_l_ _r_i_s_k_ _m_a_n_a_g_e_m_e_n_t
+    * _O_p_t_i_m_i_s_m_ _b_i_a_s
+    * _P_r_e_c_a_u_t_i_o_n_a_r_y_ _p_r_i_n_c_i_p_l_e
+    * _P_r_o_c_e_s_s_ _S_a_f_e_t_y_ _M_a_n_a_g_e_m_e_n_t
+    * _P_r_o_f_e_s_s_i_o_n_a_l_ _R_i_s_k_ _M_a_n_a_g_e_r_s_'_ _I_n_t_e_r_n_a_t_i_o_n_a_l_ _A_s_s_o_c_i_a_t_i_o_n
+    * _P_u_b_l_i_c_ _E_n_t_i_t_y_ _R_i_s_k_ _I_n_s_t_i_t_u_t_e
+    * _R_e_f_e_r_e_n_c_e_ _c_l_a_s_s_ _f_o_r_e_c_a_s_t_i_n_g
+    * _R_i_s_k_A_o_A
+    * _R_i_s_k_ _a_s_s_e_s_s_m_e_n_t
+    * _R_i_s_k_ _g_o_v_e_r_n_a_n_c_e
+    * _R_i_s_k_ _h_o_m_e_o_s_t_a_s_i_s
+    * _R_i_s_k_ _M_a_n_a_g_e_m_e_n_t_ _A_g_e_n_c_y
+    * _R_i_s_k_ _M_a_n_a_g_e_m_e_n_t_ _A_u_t_h_o_r_i_t_y
+    * _R_i_s_k_ _M_a_n_a_g_e_m_e_n_t_ _I_n_f_o_r_m_a_t_i_o_n_ _S_y_s_t_e_m_s
+    * _R_i_s_k_ _M_a_n_a_g_e_m_e_n_t_ _P_r_o_g_r_a_m_m_e
+    * _R_i_s_k_ _m_a_n_a_g_e_m_e_n_t_ _t_o_o_l_s
+    * _R_i_s_k_ _r_e_g_i_s_t_e_r
+    * _R_o_y_'_s_ _s_a_f_e_t_y_-_f_i_r_s_t_ _c_r_i_t_e_r_i_o_n
+    * _S_o_c_i_e_t_y_ _f_o_r_ _R_i_s_k_ _A_n_a_l_y_s_i_s
+    * _R_i_s_k_L_a_b
+    * _S_o_c_i_a_l_ _r_i_s_k_ _m_a_n_a_g_e_m_e_n_t
+    * _S_o_c_i_a_l_ _v_u_l_n_e_r_a_b_i_l_i_t_y
+    * _S_u_b_s_t_a_n_t_i_a_l_ _e_q_u_i_v_a_l_e_n_c_e
+    * _S_u_p_p_l_y_ _C_h_a_i_n_ _R_i_s_k_ _M_a_n_a_g_e_m_e_n_t
+    * _V_u_l_n_e_r_a_b_i_l_i_t_y_ _a_s_s_e_s_s_m_e_n_t
+    * _G_l_o_b_a_l_ _R_i_s_k_ _F_o_r_u_m_ _G_R_F_ _D_a_v_o_s
+********** RReeffeerreenncceess[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+   1. ^ _aa _bb Hubbard, Douglas (2009). The Failure of Risk Management: Why It's
+      Broken and How to Fix It. John Wiley & Sons. p. 46. 
+   2. ^ _aa _bb ISO/IEC Guide 73:2009 (2009). _R_i_s_k_ _m_a_n_a_g_e_m_e_n_t_ _‚_Ä_î_ _V_o_c_a_b_u_l_a_r_y.
+      International Organization for Standardization. 
+   3. ^ _aa _bb ISO/DIS 31000 (2009). _R_i_s_k_ _m_a_n_a_g_e_m_e_n_t_ _‚_Ä_î_ _P_r_i_n_c_i_p_l_e_s_ _a_n_d_ _g_u_i_d_e_l_i_n_e_s
+      _o_n_ _i_m_p_l_e_m_e_n_t_a_t_i_o_n. _I_n_t_e_r_n_a_t_i_o_n_a_l_ _O_r_g_a_n_i_z_a_t_i_o_n_ _f_o_r_ _S_t_a_n_d_a_r_d_i_z_a_t_i_o_n. 
+   4. _^^ _"_C_o_m_m_i_t_t_e_e_ _D_r_a_f_t_ _o_f_ _I_S_O_ _3_1_0_0_0_ _R_i_s_k_ _m_a_n_a_g_e_m_e_n_t_" (PDF). _I_n_t_e_r_n_a_t_i_o_n_a_l
+      _O_r_g_a_n_i_z_a_t_i_o_n_ _f_o_r_ _S_t_a_n_d_a_r_d_i_z_a_t_i_o_n.  Unknown parameter |published= ignored
+      (_h_e_l_p)
+   5. _^^ _C_M_U_/_S_E_I_-_9_3_-_T_R_-_6_ _T_a_x_o_n_o_m_y_-_b_a_s_e_d_ _r_i_s_k_ _i_d_e_n_t_i_f_i_c_a_t_i_o_n_ _i_n_ _s_o_f_t_w_a_r_e
+      _i_n_d_u_s_t_r_y. Sei.cmu.edu. Retrieved on 2012-04-17.
+   6. _^^ _C_o_m_m_o_n_ _V_u_l_n_e_r_a_b_i_l_i_t_y_ _a_n_d_ _E_x_p_o_s_u_r_e_s_ _l_i_s_t. Cve.mitre.org. Retrieved on
+      2012-04-17.
+   7. _^^ Crockford, Neil (1986). An Introduction to Risk Management (2 ed.).
+      Cambridge, UK: Woodhead-Faulkner. p. 18. _I_S_B_N _0_-_8_5_9_4_1_-_3_3_2_-_2. 
+   8. _^^ Dorfman, Mark S. (2007). Introduction to Risk Management and Insurance
+      (9 ed.). Englewood Cliffs, N.J: Prentice Hall. _I_S_B_N _0_-_1_3_-_2_2_4_2_2_7_-_3. 
+   9. _^^ McGivern, Gerry; Fischer, Michael D. (1 February 2012). "Reactivity and
+      reactions to regulatory transparency in medicine, psychotherapy and
+      counselling". Social Science & Medicine 7744 (3): 289‚Äì296. _d_o_i:_1_0_._1_0_1_6_/
+      _j_._s_o_c_s_c_i_m_e_d_._2_0_1_1_._0_9_._0_3_5. 
+  10. _^^ IADC HSE Case Guidelines for MODUs 3.2, section 4.7
+  11. _^^ Roehrig, P (2006). _"_B_e_t_ _O_n_ _G_o_v_e_r_n_a_n_c_e_ _T_o_ _M_a_n_a_g_e_ _O_u_t_s_o_u_r_c_i_n_g_ _R_i_s_k_".
+      Business Trends Quarterly. 
+  12. _^^ _O_x_f_o_r_d_ _B_T_ _C_e_n_t_r_e_ _f_o_r_ _M_a_j_o_r_ _P_r_o_g_r_a_m_m_e_ _M_a_n_a_g_e_m_e_n_t
+  13. _^^ Craig Taylor and Erik VanMarcke, ed. (2002). _A_c_c_e_p_t_a_b_l_e_ _R_i_s_k_ _P_r_o_c_e_s_s_e_s_:
+      _L_i_f_e_l_i_n_e_s_ _a_n_d_ _N_a_t_u_r_a_l_ _H_a_z_a_r_d_s. Reston, VA: ASCE, TCLEE.
+      _I_S_B_N _9_7_8_0_7_8_4_4_0_6_2_3_6. 
+  14. _^^ Cortada, James W. (2003-12-04). The Digital Hand: How Computers Changed
+      the Work of American Manufacturing, Transportation, and Retail
+      Industries. USA: Oxford University Press. p. 512. _I_S_B_N _0_-_1_9_-_5_1_6_5_8_8_-_8. 
+  15. _^^ Cortada, James W. (2005-11-03). The Digital Hand: Volume II: How
+      Computers Changed the Work of American Financial, Telecommunications,
+      Media, and Entertainment Industries. USA: Oxford University Press.
+      _I_S_B_N _9_7_8_-_0_-_1_9_-_5_1_6_5_8_7_-_6. 
+  16. _^^ Cortada, James W. (2007-11-06). The Digital Hand, Vol 3: How Computers
+      Changed the Work of American Public Sector Industries. USA: Oxford
+      University Press. p. 496. _I_S_B_N _9_7_8_-_0_-_1_9_-_5_1_6_5_8_6_-_9. 
+  17. _^^ _R_P_S_ _H_S_E_ _&_ _R_i_s_k_ _M_a_n_a_g_e_m_e_n_t. BowtieXP. Retrieved on 2012-04-17.
+  18. _^^ Saghee M, Sandle T, Tidswell E (editors) (2011). Microbiology and
+      Sterility Assurance in Pharmaceuticals and Medical Devices (1st ed.).
+      Business Horizons. _I_S_B_N _9_7_8_-_8_1_9_0_6_4_6_7_4_1. 
+  19. _^^ John Adams, RISK, Routledge 1995
+  20. _^^ David Hillson; Ruth Murray-Webster (30 March 2007). _U_n_d_e_r_s_t_a_n_d_i_n_g_ _a_n_d
+      _M_a_n_a_g_i_n_g_ _R_i_s_k_ _A_t_t_i_t_u_d_e. Gower Publishing, Ltd. _I_S_B_N _9_7_8_-_0_-_5_6_6_-_0_8_7_9_8_-_1.
+      Retrieved 17 April 2012. 
+  21. _^^ David Cooper (25 May 2010). _L_e_a_d_e_r_s_h_i_p_ _R_i_s_k_:_ _A_ _G_u_i_d_e_ _f_o_r_ _P_r_i_v_a_t_e_ _E_q_u_i_t_y
+      _a_n_d_ _S_t_r_a_t_e_g_i_c_ _I_n_v_e_s_t_o_r_s. John Wiley & Sons. _I_S_B_N _9_7_8_-_0_-_4_7_0_-_0_3_2_6_4_-_0.
+      Retrieved 17 April 2012. 
+  22. _^^ Digman, J M (1990). "Personality Structure: Emergence of the Five-
+      Factor Model". Annual Review of Psychology 4411: 417. _d_o_i:_1_0_._1_1_4_6_/
+      _a_n_n_u_r_e_v_._p_s_._4_1_._0_2_0_1_9_0_._0_0_2_2_2_1. 
+  23. _^^ Eysenck M. W. (1992) Anxiety and The Cognitive Perspective. Hillsdale:
+      Lawrence Erlbaum Associates
+  24. _^^ Nicholson, N., Soane, E., Fenton-O'Creevy, M., & Willman, P. (2005).
+      "Personality and domain specific risk taking". Journal of Risk Research 88
+      (2): 157‚Äì176. _d_o_i:_1_0_._1_0_8_0_/_1_3_6_6_9_8_7_0_3_2_0_0_0_1_2_3_8_5_6. 
+  25. _^^ McCrae, R., & Costa, P.T. (1997) Conceptions and correlates of Openness
+      to Experience. In J. Johnson, R Hogan and S. Briggs (Eds.) Handbook of
+      Personality Psychology. London: Academic Press.
+  26. _^^ Kowert, P.A., & Hermann, M.G. (1997). "Who takes risks? Daring and
+      caution in foreign policy making". Journal od Conflict Resolution 441111
+      (5): 611‚Äì37. _d_o_i:_1_0_._1_1_7_7_/_0_0_2_2_0_0_2_7_9_7_0_4_1_0_0_5_0_0_1. _J_S_T_O_R _1_7_4_4_6_6. 
+  27. _^^ Geoff Trickey (2011), Risk Types. OP Matters No 14 February 2012 The
+      British Psychological Society
+  28. _^^ Fischer, Michael Daniel; Ferlie, Ewan (1 January 2013). "Resisting
+      hybridisation between modes of clinical risk management: Contradiction,
+      contest, and the production of intractable conflict". Accounting,
+      Organizations and Society 3388 (1): 30‚Äì49. _d_o_i:_1_0_._1_0_1_6_/
+      _j_._a_o_s_._2_0_1_2_._1_1_._0_0_2.  |accessdate= requires |url= (_h_e_l_p)
+  29. _^^ Covello, Vincent T.; Allen., Frederick H. (April 1988). Seven Cardinal
+      Rules of Risk Communication. Washington, DC: U.S. Environmental
+      Protection Agency. OPA-87-020. 
+********** FFuurrtthheerr rreeaaddiinngg[[_ee_dd_ii_tt_ _ss_oo_uu_rr_cc_ee¬¬ || _ee_dd_ii_tt]] **********
+    * Airmic / Alarm / IRM (2010) "A structured approach to Enterprise Risk
+      Management (ERM) and the requirements of ISO 31000" _h_t_t_p_:_/_/
+      _w_w_w_._t_h_e_i_r_m_._o_r_g_/_d_o_c_u_m_e_n_t_s_/_S_A_R_M___F_I_N_A_L_._p_d_f
+    * Alberts, Christopher; Audrey Dorofee, Lisa Marino (March 2008). _M_i_s_s_i_o_n
+      _D_i_a_g_n_o_s_t_i_c_ _P_r_o_t_o_c_o_l_,_ _V_e_r_s_i_o_n_ _1_._0_:_ _A_ _R_i_s_k_-_B_a_s_e_d_ _A_p_p_r_o_a_c_h_ _f_o_r_ _A_s_s_e_s_s_i_n_g_ _t_h_e
+      _P_o_t_e_n_t_i_a_l_ _f_o_r_ _S_u_c_c_e_s_s. _S_o_f_t_w_a_r_e_ _E_n_g_i_n_e_e_r_i_n_g_ _I_n_s_t_i_t_u_t_e. Retrieved 2008-05-
+      26. 
+    * Alexander, Carol and Sheedy, Elizabeth (2005). The Professional Risk
+      Managers' Handbook: A Comprehensive Guide to Current Theory and Best
+      Practices. PRMIA Publications. _I_S_B_N _0_-_9_7_6_6_0_9_7_-_0_-_3. 
+    * Altemeyer, Lynn (2004). _A_n_ _A_s_s_e_s_s_m_e_n_t_ _o_f_ _T_e_x_a_s_ _S_t_a_t_e_ _G_o_v_e_r_n_m_e_n_t_:
+      _I_m_p_l_e_m_e_n_t_a_t_i_o_n_ _o_f_ _E_n_t_e_r_p_r_i_s_e_ _R_i_s_k_ _M_a_n_a_g_e_m_e_n_t_,_ _A_p_p_l_i_e_d_ _R_e_s_e_a_r_c_h_ _P_r_o_j_e_c_t.
+      Texas State University. 
+    * Borodzicz, Edward (2005). Risk, Crisis and Security Management. New York:
+      Wiley. _I_S_B_N _0_-_4_7_0_-_8_6_7_0_4_-_3. 
+    * Gorrod, Martin (2004). Risk Management Systems : Technology Trends
+      (Finance and Capital Markets). Basingstoke: Palgrave Macmillan. _I_S_B_N _1_-
+      _4_0_3_9_-_1_6_1_7_-_9. 
+    * Hopkin, Paul "Fundamentals of Risk Management 2nd Edition" Kogan-Page
+      (2012) _I_S_B_N_ _9_7_8_-_0_-_7_4_9_4_-_6_5_3_9_-_1
+    * Hutto, John (2009). _R_i_s_k_ _M_a_n_a_g_e_m_e_n_t_ _i_n_ _L_a_w_ _E_n_f_o_r_c_e_m_e_n_t_,_ _A_p_p_l_i_e_d_ _R_e_s_e_a_r_c_h
+      _P_r_o_j_e_c_t. Texas State University. 
+    * Institute of Risk Management/AIRMIC/ALARM (2002). _A_ _R_i_s_k_ _M_a_n_a_g_e_m_e_n_t
+      _S_t_a_n_d_a_r_d. London: _I_n_s_t_i_t_u_t_e_ _o_f_ _R_i_s_k_ _M_a_n_a_g_e_m_e_n_t. 
+    * Moteff, John (2005). _Ô_ª_ø_R_i_s_k_ _M_a_n_a_g_e_m_e_n_t_ _a_n_d_ _C_r_i_t_i_c_a_l_ _I_n_f_r_a_s_t_r_u_c_t_u_r_e
+      _P_r_o_t_e_c_t_i_o_n_:_ _A_s_s_e_s_s_i_n_g_,_ _I_n_t_e_g_r_a_t_i_n_g_,_ _a_n_d_ _M_a_n_a_g_i_n_g_ _T_h_r_e_a_t_s_,_ _V_u_l_n_e_r_a_b_i_l_i_t_i_e_s
+      _a_n_d_ _C_o_n_s_e_q_u_e_n_c_e_s_Ô_ª_ø (Report). Washington DC: Congressional Research
+      Service. _h_t_t_p_:_/_/_o_p_e_n_c_r_s_._c_o_m_/_d_o_c_u_m_e_n_t_/_R_L_3_2_5_6_1_/_2_0_0_5_-_0_2_-_0_4.
+    * Morgan, Granger, and Henrion, Max (1992). Uncertainty: A Guide to Dealing
+      with Uncertainty in Quantitative Risk and Policy Analysis. Cambridge
+      University Press. _I_S_B_N _0_-_5_2_1_4_2_7_4_-_4_-_4. 
+    * National Institute for Occupational Safety and Health (1998). _S_y_s_t_e_m
+      _S_a_f_e_t_y_ _a_n_d_ _R_i_s_k_ _M_a_n_a_g_e_m_e_n_t_:_ _A_ _G_u_i_d_e_ _f_o_r_ _E_n_g_i_n_e_e_r_i_n_g_ _E_d_u_c_a_t_o_r_s.
+      Cincinnati, OH. 
+    * Nederpelt, Peter van (2012). Object-oriented Quality and Risk Management
+      (OQRM). A practical and generic method to manage quality and risk.
+      MicroData. _I_S_B_N _9_7_8_-_1_-_2_9_1_-_0_3_7_-_3_5_-_7. 
+    * Stoneburner, Gary; Goguen, Alice and Feringa, Alexis (July 2002). _R_i_s_k
+      _M_a_n_a_g_e_m_e_n_t_ _G_u_i_d_e_ _f_o_r_ _I_n_f_o_r_m_a_t_i_o_n_ _T_e_c_h_n_o_l_o_g_y_ _S_y_s_t_e_m_s (PDF). Gaithersburg,
+      MD: National Institute of Standards and Technology. 
+    * _U_n_i_t_e_d_ _S_t_a_t_e_s_ _E_n_v_i_r_o_n_m_e_n_t_a_l_ _P_r_o_t_e_c_t_i_o_n_ _A_g_e_n_c_y (April 2004). _G_e_n_e_r_a_l_ _R_i_s_k
+      _M_a_n_a_g_e_m_e_n_t_ _P_r_o_g_r_a_m_ _G_u_i_d_a_n_c_e. United State Environmental Protection
+      Agency. 
+    * Varnell, Elliot (June 2013). _R_i_s_k_ _C_u_l_t_u_r_e_ _I_n_ _I_n_s_u_r_a_n_c_e_ _E_n_t_e_r_p_r_i_s_e_s_:_ _H_o_w
+      _t_o_ _C_u_l_t_i_v_a_t_e_,_ _C_o_n_t_r_o_l_ _a_n_d_ _I_m_p_r_o_v_e_ _i_t. Retrieved 2013-06-03. 
+    * Ward, Dan; Quaid, Chris (March/April 2007). _"_T_h_e_ _P_u_r_s_u_i_t_ _o_f_ _C_o_u_r_a_g_e_,
+      _J_u_d_g_m_e_n_t_ _a_n_d_ _L_u_c_k_" (PDF). Defense AT&L (Defense Acquisition University):
+      28‚Äì30. Archived from _t_h_e_ _o_r_i_g_i_n_a_l on 2008-04-08. Retrieved 2008-05-26. 
+    ** _vv
+    ** _tt
+    ** _ee
+_OO_cc_cc_uu_pp_aa_tt_ii_oo_nn_aa_ll_ _ss_aa_ff_ee_tt_yy_ _aa_nn_dd_ _hh_ee_aa_ll_tt_hh
+                  * _E_n_v_i_r_o_n_m_e_n_t_,_ _h_e_a_l_t_h_ _a_n_d
+                    _s_a_f_e_t_y
+                  * _E_r_g_o_n_o_m_i_c_s
+                  * _H_e_a_l_t_h_ _p_h_y_s_i_c_s
+IIssssuueess            * _I_n_d_u_s_t_r_i_a_l_ _e_n_g_i_n_e_e_r_i_n_g
+                  * _O_c_c_u_p_a_t_i_o_n_a_l_ _h_y_g_i_e_n_e
+                  * RRiisskk mmaannaaggeemmeenntt
+                  * _P_r_o_c_e_s_s_ _s_a_f_e_t_y_ _m_a_n_a_g_e_m_e_n_t
+                  * _P_u_b_l_i_c_ _h_e_a_l_t_h
+                  * _S_a_f_e_t_y_ _e_n_g_i_n_e_e_r_i_n_g
+                  * _E_n_v_i_r_o_n_m_e_n_t_a_l_ _h_e_a_l_t_h
+                  * _O_c_c_u_p_a_t_i_o_n_a_l_ _h_e_a_l_t_h_ _n_u_r_s_i_n_g
+OOccccuuppaattiioonnss       * _O_c_c_u_p_a_t_i_o_n_a_l_ _h_e_a_l_t_h
+                    _p_s_y_c_h_o_l_o_g_y
+                  * _O_c_c_u_p_a_t_i_o_n_a_l_ _m_e_d_i_c_i_n_e
+                  * _E_u_r_o_p_e_a_n_ _A_g_e_n_c_y_ _f_o_r_ _S_a_f_e_t_y    _[_I_m_a_g_e_ _o_f_ _T_r_i_a_n_g_l_e_ _S_h_i_r_t_w_a_i_s_t
+                    _a_n_d_ _H_e_a_l_t_h_ _a_t_ _W_o_r_k            _F_a_c_t_o_r_y_ _f_i_r_e_ _o_n_ _M_a_r_c_h_ _2_5_ _-
+                  * _H_e_a_l_t_h_ _a_n_d_ _S_a_f_e_t_y_ _E_x_e_c_u_t_i_v_e   _1_9_1_1_._j_p_g_]
+OOrrggaanniizzaattiioonnss     * _I_n_t_e_r_n_a_t_i_o_n_a_l_ _L_a_b_o_u_r
+                    _O_r_g_a_n_i_z_a_t_i_o_n
+                  * _O_c_c_u_p_a_t_i_o_n_a_l_ _S_a_f_e_t_y_ _a_n_d
+                    _H_e_a_l_t_h_ _A_d_m_i_n_i_s_t_r_a_t_i_o_n
+                  * _W_o_r_l_d_ _H_e_a_l_t_h_ _O_r_g_a_n_i_z_a_t_i_o_n
+                  * _O_c_c_u_p_a_t_i_o_n_a_l_ _S_a_f_e_t_y_ _a_n_d
+                    _H_e_a_l_t_h_ _C_o_n_v_e_n_t_i_o_n_,_ _1_9_8_1
+                  * _O_H_S_A_S_ _1_8_0_0_1
+SSttaannddaarrddss         * _W_o_r_k_e_r_ _P_r_o_t_e_c_t_i_o_n_ _S_t_a_n_d_a_r_d
+                    (USA)
+                  * _W_o_r_k_i_n_g_ _E_n_v_i_r_o_n_m_e_n_t
+                    _C_o_n_v_e_n_t_i_o_n_,_ _1_9_7_7
+                  * _B_a_n_g_l_a_d_e_s_h_ _A_c_c_o_r_d
+RReellaatteedd           * _I_n_t_e_r_n_a_t_i_o_n_a_l_ _C_h_e_m_i_c_a_l_ _S_a_f_e_t_y
+                    _C_a_r_d
+                  * _M_a_t_e_r_i_a_l_ _s_a_f_e_t_y_ _d_a_t_a_ _s_h_e_e_t
+    * [Category] _CC_aa_tt_ee_gg_oo_rr_yy
+    * _[_a_l_t_ _=_] _CC_oo_mm_mm_oo_nn_ss
+    * _J_o_u_r_n_a_l_s
+    * _O_r_g_a_n_i_z_a_t_i_o_n_s
+
+Retrieved from "_h_t_t_p_:_/_/_e_n_._w_i_k_i_p_e_d_i_a_._o_r_g_/_w_/
+_i_n_d_e_x_._p_h_p_?_t_i_t_l_e_=_R_i_s_k___m_a_n_a_g_e_m_e_n_t_&_o_l_d_i_d_=_5_6_8_1_6_8_0_7_8"
+_C_a_t_e_g_o_r_i_e_s:
+    * _R_i_s_k_ _m_a_n_a_g_e_m_e_n_t
+    * _R_i_s_k
+    * _A_c_t_u_a_r_i_a_l_ _s_c_i_e_n_c_e
+    * _M_a_n_a_g_e_m_e_n_t
+    * _P_r_o_j_e_c_t_ _m_a_n_a_g_e_m_e_n_t
+    * _R_i_s_k_ _a_n_a_l_y_s_i_s
+    * _S_e_c_u_r_i_t_y
+    * _C_o_m_m_u_n_i_c_a_t_i_o_n_ _s_t_u_d_i_e_s
+Hidden categories:
+    * _P_a_g_e_s_ _w_i_t_h_ _c_i_t_a_t_i_o_n_s_ _u_s_i_n_g_ _u_n_s_u_p_p_o_r_t_e_d_ _p_a_r_a_m_e_t_e_r_s
+    * _P_a_g_e_s_ _u_s_i_n_g_ _c_i_t_a_t_i_o_n_s_ _w_i_t_h_ _a_c_c_e_s_s_d_a_t_e_ _a_n_d_ _n_o_ _U_R_L
+    * _A_l_l_ _a_r_t_i_c_l_e_s_ _w_i_t_h_ _u_n_s_o_u_r_c_e_d_ _s_t_a_t_e_m_e_n_t_s
+    * _A_r_t_i_c_l_e_s_ _w_i_t_h_ _u_n_s_o_u_r_c_e_d_ _s_t_a_t_e_m_e_n_t_s_ _f_r_o_m_ _M_a_r_c_h_ _2_0_0_9
+    * _A_r_t_i_c_l_e_s_ _w_i_t_h_ _u_n_s_o_u_r_c_e_d_ _s_t_a_t_e_m_e_n_t_s_ _f_r_o_m_ _J_u_n_e_ _2_0_1_3
+********** NNaavviiggaattiioonn mmeennuu **********
+******** PPeerrssoonnaall ttoooollss ********
+    * _C_r_e_a_t_e_ _a_c_c_o_u_n_t
+    * _L_o_g_ _i_n
+******** NNaammeessppaacceess ********
+    * _A_r_t_i_c_l_e
+    * _T_a_l_k
+VVaarriiaannttss
+******** VViieewwss ********
+    * _R_e_a_d
+    * _E_d_i_t_ _s_o_u_r_c_e
+    * _E_d_i_t
+    * _V_i_e_w_ _h_i_s_t_o_r_y
+AAccttiioonnss
+******** SSeeaarrcchh ********
+[search              ]
+[Search]
+******** NNaavviiggaattiioonn ********
+    * _M_a_i_n_ _p_a_g_e
+    * _C_o_n_t_e_n_t_s
+    * _F_e_a_t_u_r_e_d_ _c_o_n_t_e_n_t
+    * _C_u_r_r_e_n_t_ _e_v_e_n_t_s
+    * _R_a_n_d_o_m_ _a_r_t_i_c_l_e
+    * _D_o_n_a_t_e_ _t_o_ _W_i_k_i_p_e_d_i_a
+******** IInntteerraaccttiioonn ********
+    * _H_e_l_p
+    * _A_b_o_u_t_ _W_i_k_i_p_e_d_i_a
+    * _C_o_m_m_u_n_i_t_y_ _p_o_r_t_a_l
+    * _R_e_c_e_n_t_ _c_h_a_n_g_e_s
+    * _C_o_n_t_a_c_t_ _p_a_g_e
+******** TToooollbbooxx ********
+    * _W_h_a_t_ _l_i_n_k_s_ _h_e_r_e
+    * _R_e_l_a_t_e_d_ _c_h_a_n_g_e_s
+    * _U_p_l_o_a_d_ _f_i_l_e
+    * _S_p_e_c_i_a_l_ _p_a_g_e_s
+    * _P_e_r_m_a_n_e_n_t_ _l_i_n_k
+    * _P_a_g_e_ _i_n_f_o_r_m_a_t_i_o_n
+    * _D_a_t_a_ _i_t_e_m
+    * _C_i_t_e_ _t_h_i_s_ _p_a_g_e
+******** PPrriinntt//eexxppoorrtt ********
+    * _C_r_e_a_t_e_ _a_ _b_o_o_k
+    * _D_o_w_n_l_o_a_d_ _a_s_ _P_D_F
+    * _P_r_i_n_t_a_b_l_e_ _v_e_r_s_i_o_n
+******** LLaanngguuaaggeess ********
+    * _ÿ_ß_Ÿ_Ñ_ÿ_π_ÿ_±_ÿ_®_Ÿ_ä_ÿ_©
+    * _–_ë_—_ä_–_ª_–_≥_–_∞_—_Ä_—_Å_–_∫_–_∏
+    * _ƒ_å_e_s_k_y
+    * _D_a_n_s_k
+    * _D_e_u_t_s_c_h
+    * _E_e_s_t_i
+    * _Œ_ï_Œ_ª_Œ_ª_Œ_∑_Œ_Ω_Œ_π_Œ_∫_Œ_¨
+    * _E_s_p_a_√_±_o_l
+    * _Ÿ_Å_ÿ_ß_ÿ_±_ÿ_≥_€_å
+    * _F_r_a_n_√_ß_a_i_s
+    * _Ì_ï_ú_Í_µ_≠_Ï_ñ_¥
+    * _‡_§_π_‡_§_ø_‡_§_®_‡_•_ç_‡_§_¶_‡_•_Ä
+    * _B_a_h_a_s_a_ _I_n_d_o_n_e_s_i_a
+    * _√_ç_s_l_e_n_s_k_a
+    * _I_t_a_l_i_a_n_o
+    * _◊_¢_◊_ë_◊_®_◊_ô_◊_™
+    * _“_ö_–_∞_–_∑_–_∞_“_õ_—_à_–_∞
+    * _L_i_e_t_u_v_i_≈_≥
+    * _M_a_g_y_a_r
+    * _B_a_h_a_s_a_ _M_e_l_a_y_u
+    * _N_e_d_e_r_l_a_n_d_s
+    * _Ê_ó_•_Ê_ú_¨_Ë_™_û
+    * _N_o_r_s_k_ _b_o_k_m_√_•_l
+    * _P_o_l_s_k_i
+    * _P_o_r_t_u_g_u_√_™_s
+    * _–_ _—_É_—_Å_—_Å_–_∫_–_∏_–_π
+    * _‡_∑_É_‡_∑_í_‡_∂_Ç_‡_∑_Ñ_‡_∂_Ω
+    * _S_l_o_v_e_n_ƒ_ç_i_n_a
+    * _S_u_o_m_i
+    * _S_v_e_n_s_k_a
+    * _‡_Æ_§_‡_Æ_Æ_‡_Æ_ø_‡_Æ_¥_‡_Ø_ç
+    * _‡_π_Ñ_‡_∏_ó_‡_∏_¢
+    * _T_√_º_r_k_√_ß_e
+    * _–_£_–_∫_—_Ä_–_∞_—_ó_–_Ω_—_Å_—_å_–_∫_–_∞
+    * _‰_∏_≠_Ê_ñ_á
+    * _E_d_i_t_ _l_i_n_k_s
+    * This page was last modified on 12 August 2013 at 05:29.
+    * Text is available under the _C_r_e_a_t_i_v_e_ _C_o_m_m_o_n_s_ _A_t_t_r_i_b_u_t_i_o_n_-_S_h_a_r_e_A_l_i_k_e
+      _L_i_c_e_n_s_e; additional terms may apply. By using this site, you agree to the
+      _T_e_r_m_s_ _o_f_ _U_s_e and _P_r_i_v_a_c_y_ _P_o_l_i_c_y_.
+      Wikipedia¬Æ is a registered trademark of the _W_i_k_i_m_e_d_i_a_ _F_o_u_n_d_a_t_i_o_n_,_ _I_n_c_.,
+      a non-profit organization.
+    * _P_r_i_v_a_c_y_ _p_o_l_i_c_y
+    * _A_b_o_u_t_ _W_i_k_i_p_e_d_i_a
+    * _D_i_s_c_l_a_i_m_e_r_s
+    * _C_o_n_t_a_c_t_ _W_i_k_i_p_e_d_i_a
+    * _M_o_b_i_l_e_ _v_i_e_w
+    * _[_W_i_k_i_m_e_d_i_a_ _F_o_u_n_d_a_t_i_o_n_]
+    * _[_P_o_w_e_r_e_d_ _b_y_ _M_e_d_i_a_W_i_k_i_]
+

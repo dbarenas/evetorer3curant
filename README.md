@@ -18,32 +18,39 @@ The License is GPL v2
 
 For use this read the next instructions.
 
-STEP 1
+'''STEP 1'''
 
 Install 
 <code>
-apt-get install python-nltk python-num python-scipy
-apt-get install python-nltk 
-apt-get install cython
-</code>
 
-<code>    
-apt-get install git
-git clone git://github.com/scikit-learn/scikit-learn.git
-cd scikit-learn/
-python setup.py build_ext --inplace
-cd ..
-cd scikit-learn/
-python setup.py install
+    apt-get install python-nltk python-num python-scipy
+    apt-get install python-nltk 
+    apt-get install cython
 </code>
 
 <code>
-cd beautifulsoup4-4.3.1/
-python setup.py install    
+
+    apt-get install git
+    git clone git://github.com/scikit-learn/scikit-learn.git
+    cd scikit-learn/
+    python setup.py build_ext --inplace
+    cd ..
+    cd scikit-learn/
+    python setup.py install
+</code>
+
+<code>
+
+    cd beautifulsoup4-4.3.1/
+    python setup.py install    
+
 </code>
 
 Download wikiapi or install via pip
-<code>  sudo pip install wikiapi</code>
+<code>  
+
+    sudo pip install wikiapi
+</code>
 
 Now goin to aproximation_1 and execute clasificator_tester.py  this clasificator going to classify the events_list file into a topic and industry words, this words have a dictionary with the classification of the wikipedia.
 
